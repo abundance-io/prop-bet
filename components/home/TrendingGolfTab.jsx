@@ -49,7 +49,7 @@ const TrendingGolfTab = () => {
             <div className="t__items__left">
               <h6>To win a Major in 2023</h6>
               <p>
-                <Link href="URL:void(0)">23/07/2023 22:00</Link>
+                <Link href="">23/07/2023 22:00</Link>
               </p>
             </div>
           </div>
@@ -58,7 +58,7 @@ const TrendingGolfTab = () => {
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
                   <Link
-                    href="URL:void(0)"
+                    href=""
                     className="point__box aroow__text bg__none"
                   >
                     <span>Bet now</span>
@@ -70,7 +70,7 @@ const TrendingGolfTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -87,7 +87,7 @@ const TrendingGolfTab = () => {
                 does not play in all...
               </h6>
               <p>
-                <Link href="URL:void(0)">23/07/2023 22:00</Link>
+                <Link href="">23/07/2023 22:00</Link>
               </p>
             </div>
           </div>
@@ -96,7 +96,7 @@ const TrendingGolfTab = () => {
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
                   <Link
-                    href="URL:void(0)"
+                    href=""
                     className="point__box aroow__text bg__none"
                   >
                     <span>Bet now</span>
@@ -108,7 +108,7 @@ const TrendingGolfTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -122,7 +122,7 @@ const TrendingGolfTab = () => {
             <div className="t__items__left">
               <h6>The Match VII</h6>
               <p>
-                <Link href="URL:void(0)">23/07/2023 22:00</Link>
+                <Link href="">23/07/2023 22:00</Link>
               </p>
             </div>
           </div>
@@ -131,7 +131,7 @@ const TrendingGolfTab = () => {
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
                   <Link
-                    href="URL:void(0)"
+                    href=""
                     className="point__box aroow__text bg__none"
                   >
                     <span>Bet now</span>
@@ -143,7 +143,7 @@ const TrendingGolfTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -154,10 +154,10 @@ const TrendingGolfTab = () => {
         </div>
 
         <div className="table__footer">
-          <Link href="URL:void(0)" className="lobby text__opa">
+          <Link href="" className="lobby text__opa">
             OPEN GOLF LOBBY
           </Link>
-          <Link href="URL:void(0)" className="footerpoing">
+          <Link href="" className="footerpoing">
             <span>4</span>
             <span>
               <i className="fas fa-angle-right"></i>

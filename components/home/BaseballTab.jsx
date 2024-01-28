@@ -49,7 +49,7 @@ const BaseballTab = () => {
                         2023 World Baseball Classic - Futures
                       </h6>
                       <p>
-                        <Link href="URL:void(0)">20/03/2023 05:00</Link>
+                        <Link href="">20/03/2023 05:00</Link>
                       </p>
                     </div>
                   </div>
@@ -58,7 +58,7 @@ const BaseballTab = () => {
                       <div className="martbas__pointlast">
                         <div className="mart__point__left">
                           <Link
-                            href="URL:void(0)"
+                            href=""
                             className="point__box aroow__text bg__none"
                           >
                             <span className="text__opa">Bet now</span>
@@ -70,7 +70,7 @@ const BaseballTab = () => {
                       </div>
                       <div className="mart__point__right">
                         <Link
-                          href="URL:void(0)"
+                          href=""
                           className="point__box point__boxpadding bg__none"
                         >
                           <i className="icon-star star"></i>
@@ -84,7 +84,7 @@ const BaseballTab = () => {
                     <div className="t__items__left">
                       <h6 className="text__opa">2023 MLB - Futures</h6>
                       <p>
-                        <Link href="URL:void(0)">20/03/2023 05:00</Link>
+                        <Link href="">20/03/2023 05:00</Link>
                       </p>
                     </div>
                   </div>
@@ -93,7 +93,7 @@ const BaseballTab = () => {
                       <div className="martbas__pointlast">
                         <div className="mart__point__left">
                           <Link
-                            href="URL:void(0)"
+                            href=""
                             className="point__box aroow__text bg__none"
                           >
                             <span className="text__opa">Bet now</span>
@@ -105,7 +105,7 @@ const BaseballTab = () => {
                       </div>
                       <div className="mart__point__right">
                         <Link
-                          href="URL:void(0)"
+                          href=""
                           className="point__box point__boxpadding bg__none"
                         >
                           <i className="icon-star star"></i>

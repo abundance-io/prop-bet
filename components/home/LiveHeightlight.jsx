@@ -1,11 +1,20 @@
+"use client";
 import LiveBasketballTab from "./LiveBasketballTab";
 import LiveCricketTab from "./LiveCricketTab";
-import LiveFootballTab from "./LiveFootballTab";
+import GenericTab from "./GenericTab";
 import LiveTableTennisTab from "./LiveTableTennisTab";
 import LiveTennisTab from "./LiveTennisTab";
 import LiveVollyballTab from "./LiveVollyballTab";
+import { useState, useEffect } from "react";
+import axios from "axios";
 
 const LiveHeightlight = () => {
+  const [sports, setSports] = useState([]);
+  useEffect(() => {
+    axios.get(`http://localhost:4000/sports`).then((response) => {
+      setSports(response.data["sports"]);
+    });
+  }, [sports]);
   return (
     <>
       <div className="heightlight__tab">
@@ -26,73 +35,18 @@ const LiveHeightlight = () => {
           </button>
           <button
             className="nav-link "
-            id="lightlighttab2tennis"
-            data-bs-toggle="tab"
-            data-bs-target="#height2tennis"
-            type="button"
-            role="tab"
-            aria-selected="false"
-          >
-            <span className="icons">
-              <i className="icon-tennis"></i>
-            </span>
-            <span>Tennis</span>
-          </button>
-          <button
-            className="nav-link "
             id="lightlighttab3basket"
-            data-bs-toggle="tab"
-            data-bs-target="#basketbtab"
+            // data-bs-toggle="tab"
+            // data-bs-target="#basketbtab"
             type="button"
             role="tab"
             aria-selected="false"
+            // onClick={}
           >
             <span className="icons">
               <i className="icon-basketball"></i>
             </span>
             <span>Basketball</span>
-          </button>
-          <button
-            className="nav-link "
-            id="lightlighttabvolly"
-            data-bs-toggle="tab"
-            data-bs-target="#vollyballs"
-            type="button"
-            role="tab"
-            aria-selected="false"
-          >
-            <span className="icons">
-              <i className="icon-volly"></i>
-            </span>
-            <span>Volleyball</span>
-          </button>
-          <button
-            className="nav-link "
-            id="lightlighttab5cricket"
-            data-bs-toggle="tab"
-            data-bs-target="#crickettab"
-            type="button"
-            role="tab"
-            aria-selected="false"
-          >
-            <span className="icons">
-              <i className="icon-cricket"></i>
-            </span>
-            <span>Cricket</span>
-          </button>
-          <button
-            className="nav-link "
-            id="lightlighttable"
-            data-bs-toggle="tab"
-            data-bs-target="#tabletennis"
-            type="button"
-            role="tab"
-            aria-selected="false"
-          >
-            <span className="icons">
-              <i className="icon-ttennis"></i>
-            </span>
-            <span>Table Tennis</span>
           </button>
         </div>
       </div>
@@ -109,80 +63,10 @@ const LiveHeightlight = () => {
           >
             <div className="main__table">
               {/* Live Football Tab */}
-              <LiveFootballTab />
+              <GenericTab />
             </div>
           </div>
           {/* Football */}
-
-          {/* Tennis */}
-          <div
-            className="tab-pane fade text-white "
-            id="height2tennis"
-            role="tabpanel"
-            tabIndex="0"
-          >
-            <div className="main__table main__table__tennis">
-              {/* Live Tennis Tab */}
-              <LiveTennisTab />
-            </div>
-          </div>
-          {/* Tennis */}
-
-          {/* Basketball */}
-          <div
-            className="tab-pane fade text-white "
-            id="basketbtab"
-            role="tabpanel"
-            tabIndex="0"
-          >
-            <div className="main__table main__table__tennis main__table__basketball">
-              {/* Live Basketball Tab */}
-              <LiveBasketballTab />
-            </div>
-          </div>
-          {/* Basketball */}
-
-          {/* Vollyball */}
-          <div
-            className="tab-pane fade text-white "
-            id="vollyballs"
-            role="tabpanel"
-            tabIndex="0"
-          >
-            <div className="main__table volloy__max main__table__tennis">
-              {/* Live Vollyball Tab */}
-              <LiveVollyballTab />
-            </div>
-          </div>
-          {/* Vollyball */}
-
-          {/* Cricket */}
-          <div
-            className="tab-pane fade text-white "
-            id="crickettab"
-            role="tabpanel"
-            tabIndex="0"
-          >
-            <div className="main__table main__table__tennis main__table__cricket">
-              {/* Live Cricket Tab */}
-              <LiveCricketTab />
-            </div>
-          </div>
-          {/* Cricket */}
-
-          {/* Table Tennis */}
-          <div
-            className="tab-pane fade text-white "
-            id="tabletennis"
-            role="tabpanel"
-            tabIndex="0"
-          >
-            <div className="main__table volloy__max main__table__tennis main__table__ttennis">
-              {/* Live Table Tennis Tab */}
-              <LiveTableTennisTab />
-            </div>
-          </div>
-          {/* Table Tennis */}
         </div>
       </div>
     </>

@@ -100,7 +100,7 @@ const LeftBetsModal = () => {
                               >
                                 <div className="prematch__scopre">
                                   <Link
-                                    href="URL:void(0)"
+                                    href=""
                                     className="prescore__items"
                                   >
                                     <div className="prescore__left">
@@ -117,7 +117,7 @@ const LeftBetsModal = () => {
                                     </div>
                                   </Link>
                                   <Link
-                                    href="URL:void(0)"
+                                    href=""
                                     className="prescore__items"
                                   >
                                     <div className="prescore__left">
@@ -134,7 +134,7 @@ const LeftBetsModal = () => {
                                     </div>
                                   </Link>
                                   <Link
-                                    href="URL:void(0)"
+                                    href=""
                                     className="prescore__items"
                                   >
                                     <div className="prescore__left">
@@ -151,7 +151,7 @@ const LeftBetsModal = () => {
                                     </div>
                                   </Link>
                                   <Link
-                                    href="URL:void(0)"
+                                    href=""
                                     className="prescore__items"
                                   >
                                     <div className="prescore__left">
@@ -170,7 +170,7 @@ const LeftBetsModal = () => {
                                     </div>
                                   </Link>
                                   <Link
-                                    href="URL:void(0)"
+                                    href=""
                                     className="prescore__items"
                                   >
                                     <div className="prescore__left">
@@ -187,7 +187,7 @@ const LeftBetsModal = () => {
                                     </div>
                                   </Link>
                                   <Link
-                                    href="URL:void(0)"
+                                    href=""
                                     className="prescore__items"
                                   >
                                     <div className="prescore__left">
@@ -215,7 +215,7 @@ const LeftBetsModal = () => {
                                 <div className="multiple__components">
                                   <div className="prematch__scopre">
                                     <Link
-                                      href="URL:void(0)"
+                                      href=""
                                       className="prescore__items"
                                     >
                                       <div className="prescore__left">
@@ -232,7 +232,7 @@ const LeftBetsModal = () => {
                                       </div>
                                     </Link>
                                     <Link
-                                      href="URL:void(0)"
+                                      href=""
                                       className="prescore__items"
                                     >
                                       <div className="prescore__left">
@@ -249,7 +249,7 @@ const LeftBetsModal = () => {
                                       </div>
                                     </Link>
                                     <Link
-                                      href="URL:void(0)"
+                                      href=""
                                       className="prescore__items"
                                     >
                                       <div className="prescore__left">
@@ -268,7 +268,7 @@ const LeftBetsModal = () => {
                                       </div>
                                     </Link>
                                     <Link
-                                      href="URL:void(0)"
+                                      href=""
                                       className="prescore__items"
                                     >
                                       <div className="prescore__left">
@@ -287,7 +287,7 @@ const LeftBetsModal = () => {
                                       </div>
                                     </Link>
                                     <Link
-                                      href="URL:void(0)"
+                                      href=""
                                       className="prescore__items"
                                     >
                                       <div className="prescore__left">
@@ -306,7 +306,7 @@ const LeftBetsModal = () => {
                                       </div>
                                     </Link>
                                     <Link
-                                      href="URL:void(0)"
+                                      href=""
                                       className="prescore__items"
                                     >
                                       <div className="prescore__left">

@@ -73,7 +73,7 @@ const RightBetsModal = () => {
                           </span>
                           <span>Real Kashmir vs Trau FC</span>
                         </div>
-                        <Link href="URL:void(0)" className="cros">
+                        <Link href="" className="cros">
                           <i className="icon-cross"></i>
                         </Link>
                       </div>
@@ -106,7 +106,7 @@ const RightBetsModal = () => {
                       <span>Possible Payout</span>
                       <span>0.00$</span>
                     </div>
-                    <Link href="URL:void(0)" className="cmn--btn2">
+                    <Link href="" className="cmn--btn2">
                       <span>Sign In & Bet</span>
                     </Link>
                   </div>
@@ -126,10 +126,10 @@ const RightBetsModal = () => {
                               <h6>Erase Betslip</h6>
                               <p>Are you sure you want to erase Betslip?</p>
                               <div className="btn__grp">
-                                <Link href="URL:void(0)" className="cmn--btn">
+                                <Link href="" className="cmn--btn">
                                   <span>No</span>
                                 </Link>
-                                <Link href="URL:void(0)" className="cmn--btn2">
+                                <Link href="" className="cmn--btn2">
                                   <span>Accept</span>
                                 </Link>
                               </div>
@@ -149,7 +149,7 @@ const RightBetsModal = () => {
                           <div className="setting__boxes">
                             <div className="setting__boxes__head">
                               <span>Accept Changes automatically?</span>
-                              <Link href="URL:void(0)">
+                              <Link href="">
                                 <i className="icon-cross"></i>
                               </Link>
                             </div>
@@ -246,7 +246,7 @@ const RightBetsModal = () => {
                           </span>
                           <span>Real Kashmir vs Trau FC</span>
                         </div>
-                        <Link href="URL:void(0)" className="cros">
+                        <Link href="" className="cros">
                           <i className="icon-cross"></i>
                         </Link>
                       </div>
@@ -266,7 +266,7 @@ const RightBetsModal = () => {
                           </span>
                           <span>Stodder, Timo vs Kopriva, Vit</span>
                         </div>
-                        <Link href="URL:void(0)" className="cros">
+                        <Link href="" className="cros">
                           <i className="icon-cross"></i>
                         </Link>
                       </div>
@@ -295,7 +295,7 @@ const RightBetsModal = () => {
                         </div>
                       </div>
                     </div>
-                    <Link href="URL:void(0)" className="cmn--btn2">
+                    <Link href="" className="cmn--btn2">
                       <span>Sign In & Bet</span>
                     </Link>
                   </div>
@@ -316,7 +316,7 @@ const RightBetsModal = () => {
                           </span>
                           <span>Real Kashmir vs Trau FC</span>
                         </div>
-                        <Link href="URL:void(0)" className="cros">
+                        <Link href="" className="cros">
                           <i className="icon-cross"></i>
                         </Link>
                       </div>
@@ -336,7 +336,7 @@ const RightBetsModal = () => {
                           </span>
                           <span>Stodder, Timo vs Kopriva, Vit</span>
                         </div>
-                        <Link href="URL:void(0)" className="cros">
+                        <Link href="" className="cros">
                           <i className="icon-cross"></i>
                         </Link>
                       </div>
@@ -365,7 +365,7 @@ const RightBetsModal = () => {
                         </div>
                       </div>
                     </div>
-                    <Link href="URL:void(0)" className="cmn--btn2">
+                    <Link href="" className="cmn--btn2">
                       <span>Sign In & Bet</span>
                     </Link>
                   </div>

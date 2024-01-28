@@ -53,10 +53,10 @@ const TrendingBasketballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right opo">
+                <Link href="" className="twing twing__right opo">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -82,17 +82,17 @@ const TrendingBasketballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left mb__10">
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     Over
                   </Link>
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     Under
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   No
@@ -107,8 +107,8 @@ const TrendingBasketballTab = () => {
               <h6>Memphis Grizzlies @</h6>
               <span className="text">Detroit Pistons</span>
               <p>
-                <Link href="URL:void(0)">Tomorrow / 05:10</Link>
-                <Link href="URL:void(0)" className="today">
+                <Link href="">Tomorrow / 05:10</Link>
+                <Link href="" className="today">
                   BUILD A BET
                 </Link>
               </p>
@@ -117,10 +117,10 @@ const TrendingBasketballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart">
+                <Link href="" className="mart">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -161,27 +161,27 @@ const TrendingBasketballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left mb__10">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">O 79,5</span>
                     <span>8.50</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     2.25
                   </Link>
                 </div>
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">U 79,5</span>
                     <span>8.50</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     1.60
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -196,8 +196,8 @@ const TrendingBasketballTab = () => {
               <h6>Boston Celtics @</h6>
               <span className="text">Brooklyn Nets</span>
               <p>
-                <Link href="URL:void(0)">Tomorrow / 05:10</Link>
-                <Link href="URL:void(0)" className="today">
+                <Link href="">Tomorrow / 05:10</Link>
+                <Link href="" className="today">
                   BUILD A BET
                 </Link>
               </p>
@@ -206,10 +206,10 @@ const TrendingBasketballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart">
+                <Link href="" className="mart">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -250,27 +250,27 @@ const TrendingBasketballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left mb__10">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">O 79,5</span>
                     <span>9.36</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     3.25
                   </Link>
                 </div>
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">U 79,5</span>
                     <span>6.35</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     1.60
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -285,8 +285,8 @@ const TrendingBasketballTab = () => {
               <h6>Los Angeles Lakers @</h6>
               <span className="text">Washington Wizards</span>
               <p>
-                <Link href="URL:void(0)">Tomorrow / 05:10</Link>
-                <Link href="URL:void(0)" className="today">
+                <Link href="">Tomorrow / 05:10</Link>
+                <Link href="" className="today">
                   BUILD A BET
                 </Link>
               </p>
@@ -295,10 +295,10 @@ const TrendingBasketballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart">
+                <Link href="" className="mart">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -337,14 +337,14 @@ const TrendingBasketballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast martbas__pointlast__width">
                 <div className="mart__point__left mb__10">
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     <i className="icon-lock lock"></i>
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -359,8 +359,8 @@ const TrendingBasketballTab = () => {
               <h6>Phoenix Suns @</h6>
               <span className="text">San Antonio Spurs</span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
-                <Link href="URL:void(0)" className="today">
+                <Link href="">Today / 21:00</Link>
+                <Link href="" className="today">
                   BUILD A BET
                 </Link>
               </p>
@@ -369,10 +369,10 @@ const TrendingBasketballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart">
+                <Link href="" className="mart">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -411,14 +411,14 @@ const TrendingBasketballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast martbas__pointlast__width">
                 <div className="mart__point__left mb__10">
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     <i className="icon-lock lock"></i>
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -433,8 +433,8 @@ const TrendingBasketballTab = () => {
               <h6>Chicago Bulls @</h6>
               <span className="text">Sacramento Kings</span>
               <p>
-                <Link href="URL:void(0)">TTomorrow / 05:10</Link>
-                <Link href="URL:void(0)" className="today">
+                <Link href="">TTomorrow / 05:10</Link>
+                <Link href="" className="today">
                   BUILD A BET
                 </Link>
               </p>
@@ -443,10 +443,10 @@ const TrendingBasketballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart">
+                <Link href="" className="mart">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -487,27 +487,27 @@ const TrendingBasketballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left mb__10">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">O 79,5</span>
                     <span>9.36</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     3.25
                   </Link>
                 </div>
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">U 79,5</span>
                     <span>6.35</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     1.60
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -522,8 +522,8 @@ const TrendingBasketballTab = () => {
               <h6>Denver Nuggets @</h6>
               <span className="text">New Orleans Pelicans</span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
-                <Link href="URL:void(0)" className="today">
+                <Link href="">Today / 21:00</Link>
+                <Link href="" className="today">
                   BUILD A BET
                 </Link>
               </p>
@@ -532,10 +532,10 @@ const TrendingBasketballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart">
+                <Link href="" className="mart">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -574,14 +574,14 @@ const TrendingBasketballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast martbas__pointlast__width">
                 <div className="mart__point__left mb__10">
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     <i className="icon-lock lock"></i>
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -596,8 +596,8 @@ const TrendingBasketballTab = () => {
               <h6>Indiana Pacers @</h6>
               <span className="text">Portland Trail Blazers</span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
-                <Link href="URL:void(0)" className="today">
+                <Link href="">Today / 21:00</Link>
+                <Link href="" className="today">
                   BUILD A BET
                 </Link>
               </p>
@@ -606,10 +606,10 @@ const TrendingBasketballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart">
+                <Link href="" className="mart">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -648,14 +648,14 @@ const TrendingBasketballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast martbas__pointlast__width">
                 <div className="mart__point__left mb__10">
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     <i className="icon-lock lock"></i>
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -670,8 +670,8 @@ const TrendingBasketballTab = () => {
               <h6>Chicago Bulls @</h6>
               <span className="text">Sacramento Kings</span>
               <p>
-                <Link href="URL:void(0)">TTomorrow / 05:10</Link>
-                <Link href="URL:void(0)" className="today">
+                <Link href="">TTomorrow / 05:10</Link>
+                <Link href="" className="today">
                   BUILD A BET
                 </Link>
               </p>
@@ -680,10 +680,10 @@ const TrendingBasketballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart">
+                <Link href="" className="mart">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -724,27 +724,27 @@ const TrendingBasketballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left mb__10">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">O 79,5</span>
                     <span>9.36</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     3.25
                   </Link>
                 </div>
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">U 79,5</span>
                     <span>6.35</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     1.60
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -754,10 +754,10 @@ const TrendingBasketballTab = () => {
           </div>
         </div>
         <div className="table__footer">
-          <Link href="URL:void(0)" className="lobby text__opa">
+          <Link href="" className="lobby text__opa">
             Open Football lobby
           </Link>
-          <Link href="URL:void(0)" className="footerpoing">
+          <Link href="" className="footerpoing">
             <span>222</span>
             <span>
               <i className="fas fa-angle-right"></i>

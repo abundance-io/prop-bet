@@ -15,7 +15,7 @@ const Footer = () => {
             >
               <div className="widget__items">
                 <div className="footer-head">
-                  <Link href="URL:void(0)" className="footer-logo">
+                  <Link href="" className="footer-logo">
                     <Image src={footerlogo} alt="f-logo" />
                   </Link>
                 </div>
@@ -27,22 +27,22 @@ const Footer = () => {
                   <h6>Follow Us</h6>
                   <ul className="social">
                     <li>
-                      <Link href="URL:void(0)" className="icon">
+                      <Link href="" className="icon">
                         <i className="fa-brands fa-facebook-f"></i>
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)" className="icon">
+                      <Link href="" className="icon">
                         <i className="fa-brands fa-instagram"></i>
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)" className="icon">
+                      <Link href="" className="icon">
                         <i className="fa-brands fa-linkedin-in"></i>
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)" className="icon">
+                      <Link href="" className="icon">
                         <i className="fa-brands fa-twitter"></i>
                       </Link>
                     </li>
@@ -72,7 +72,7 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           width={17}
                           height={17}
@@ -83,7 +83,7 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           width={17}
                           height={17}
@@ -94,7 +94,7 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           width={17}
                           height={17}
@@ -130,7 +130,7 @@ const Footer = () => {
                 <div className="content-area">
                   <ul className="quick-link">
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           width={17}
                           height={17}
@@ -141,7 +141,7 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           width={17}
                           height={17}
@@ -183,24 +183,24 @@ const Footer = () => {
         <div className="footer__bottom">
           <p className="text-white">
             Copyright &copy; 2023,{" "}
-            <Link href="URL:void(0)" className="text--base">
+            <Link href="" className="text--base">
               SportOdds
             </Link>{" "}
             - All Right Reserved
           </p>
           <ul className="bottom__ling">
             <li>
-              <Link href="URL:void(0)" className="text-white">
+              <Link href="" className="text-white">
                 Affiliate program
               </Link>
             </li>
             <li>
-              <Link href="URL:void(0)" className="text-white">
+              <Link href="" className="text-white">
                 Terms & conditions
               </Link>
             </li>
             <li>
-              <Link href="URL:void(0)" className="text-white">
+              <Link href="" className="text-white">
                 Bonus terms & conditions
               </Link>
             </li>

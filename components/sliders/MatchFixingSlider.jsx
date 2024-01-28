@@ -60,15 +60,9 @@ const MatchFixingSlider = () => {
           <div className="match__vs">
             <div className="match__vs__left">
               <span>Argentina</span>
-              <span className="flag">
-                <Image src={arjentina} alt="flag" />
-              </span>
             </div>
             <span className="vs">Vs</span>
             <div className="match__vs__left">
-              <span className="flag">
-                <Image src={france} alt="flag" />
-              </span>
               <span>France</span>
             </div>
           </div>
@@ -104,9 +98,6 @@ const MatchFixingSlider = () => {
           <div className="match__vs">
             <div className="match__vs__left">
               <span>Poland</span>
-              <span className="flag">
-                <Image src={poland} alt="flag" />
-              </span>
             </div>
             <span className="vs">Vs</span>
             <div className="match__vs__left">

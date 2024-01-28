@@ -17,11 +17,11 @@ const NextIceHockeyTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>1.40</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>2.25</span>
             </Link>
@@ -50,11 +50,11 @@ const NextIceHockeyTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>1.83</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>1.48</span>
             </Link>
@@ -83,11 +83,11 @@ const NextIceHockeyTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>1.67</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>2.40</span>
             </Link>
@@ -116,11 +116,11 @@ const NextIceHockeyTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>1.53</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>2.10</span>
             </Link>
@@ -149,11 +149,11 @@ const NextIceHockeyTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>2.55</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>1.91</span>
             </Link>
@@ -182,11 +182,11 @@ const NextIceHockeyTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>1.60</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>2.80</span>
             </Link>

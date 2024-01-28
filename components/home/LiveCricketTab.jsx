@@ -55,15 +55,15 @@ const LiveCricketTab = ({ thead = true }) => {
             <div className="tennis__right">
               <div className="mart__point__two">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     1
                   </Link>
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     2
                   </Link>
                 </div>
                 <div className="mart__point__right">
-                  <Link href="URL:void(0)" className="point__box bg__none opo">
+                  <Link href="" className="point__box bg__none opo">
                     <i className="icon-star star"></i>
                   </Link>
                 </div>
@@ -78,7 +78,7 @@ const LiveCricketTab = ({ thead = true }) => {
               <h6>Tokyo Great Bears</h6>
               <span className="text">JT Thunders</span>
               <p>
-                <Link href="URL:void(0)">Live</Link>
+                <Link href="">Live</Link>
                 <span>3rd Set</span>
               </p>
             </div>
@@ -87,15 +87,15 @@ const LiveCricketTab = ({ thead = true }) => {
           <div className="tennis__right">
             <div className="mart__point__two">
               <div className="mart__point__left">
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   3.05
                 </Link>
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   6.50
                 </Link>
               </div>
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -103,10 +103,10 @@ const LiveCricketTab = ({ thead = true }) => {
           </div>
         </div>
         <div className="table__footer">
-          <Link href="URL:void(0)" className="lobby text__opa">
+          <Link href="" className="lobby text__opa">
             Open <span className="text__btn"> Volleyball Live</span> Events
           </Link>
-          <Link href="URL:void(0)" className="footerpoing">
+          <Link href="" className="footerpoing">
             <span>8</span>
             <span>
               <i className="fas fa-angle-right"></i>

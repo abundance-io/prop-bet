@@ -13,7 +13,7 @@ const FooterMobile = () => {
       </li>
       <li>
         <Link
-          href="URL:void(0)"
+          href=""
           className="d-grid justify-content-center"
           data-bs-toggle="modal"
           data-bs-target="#eventsp"
@@ -34,7 +34,7 @@ const FooterMobile = () => {
       </li>
       <li>
         <Link
-          href="URL:void(0)"
+          href=""
           className="d-grid justify-content-center"
           data-bs-toggle="modal"
           data-bs-target="#betsp"

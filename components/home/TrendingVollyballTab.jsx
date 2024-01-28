@@ -44,10 +44,10 @@ const TrendingVollyballTab = () => {
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right opo">
+                <Link href="" className="twing twing__right opo">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -65,17 +65,17 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     1
                   </Link>
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     2
                   </Link>
                 </div>
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none opo"
                 >
                   <i className="icon-star star"></i>
@@ -90,17 +90,17 @@ const TrendingVollyballTab = () => {
               <h6>ZAKSA Kedzierzyn-Kozle</h6>
               <span className="text">Cerrad Czarni Radom</span>
               <p>
-                <Link href="URL:void(0)">Today / 19:45</Link>
+                <Link href="">Today / 19:45</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -118,11 +118,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.15</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.87</span>
                   </Link>
@@ -130,7 +130,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -145,17 +145,17 @@ const TrendingVollyballTab = () => {
               <h6>Sao Paulo Barueri VC</h6>
               <span className="text">Unilife Maringa</span>
               <p>
-                <Link href="URL:void(0)">Tomorrow / 02:00</Link>
+                <Link href="">Tomorrow / 02:00</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -173,11 +173,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.11</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>5.25</span>
                   </Link>
@@ -185,7 +185,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -200,17 +200,17 @@ const TrendingVollyballTab = () => {
               <h6>Gas Sales Piacenza</h6>
               <span className="text">Top Volley Cisterna</span>
               <p>
-                <Link href="URL:void(0)">Tomorrow / 02:00</Link>
+                <Link href="">Tomorrow / 02:00</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -228,11 +228,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>2.10</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.65</span>
                   </Link>
@@ -240,7 +240,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -255,17 +255,17 @@ const TrendingVollyballTab = () => {
               <h6>Verona</h6>
               <span className="text">Volley Siena</span>
               <p>
-                <Link href="URL:void(0)">Tomorrow / 02:00</Link>
+                <Link href="">Tomorrow / 02:00</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -283,11 +283,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>3.25</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>2.10</span>
                   </Link>
@@ -295,7 +295,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -310,17 +310,17 @@ const TrendingVollyballTab = () => {
               <h6>Vero Volley Monza</h6>
               <span className="text">Modena Volley</span>
               <p>
-                <Link href="URL:void(0)">Today / 23:00</Link>
+                <Link href="">Today / 23:00</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -338,11 +338,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.15</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.87</span>
                   </Link>
@@ -350,7 +350,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -365,17 +365,17 @@ const TrendingVollyballTab = () => {
               <h6>Volley Bergamo</h6>
               <span className="text">ASD Pallavolo Pinerolo</span>
               <p>
-                <Link href="URL:void(0)">Today / 23:00</Link>
+                <Link href="">Today / 23:00</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -393,11 +393,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>3.65</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>2.35</span>
                   </Link>
@@ -405,7 +405,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -420,17 +420,17 @@ const TrendingVollyballTab = () => {
               <h6>Volley Milano</h6>
               <span className="text">Volley Civitanova</span>
               <p>
-                <Link href="URL:void(0)">06/12/2022 00:30</Link>
+                <Link href="">06/12/2022 00:30</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -448,11 +448,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.87</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>2.65</span>
                   </Link>
@@ -460,7 +460,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -475,17 +475,17 @@ const TrendingVollyballTab = () => {
               <h6>ZAKSA Kedzierzyn-Kozle</h6>
               <span className="text">Cerrad Czarni Radom</span>
               <p>
-                <Link href="URL:void(0)">Today / 22:00</Link>
+                <Link href="">Today / 22:00</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -503,11 +503,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.36</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>2.90</span>
                   </Link>
@@ -515,7 +515,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -530,17 +530,17 @@ const TrendingVollyballTab = () => {
               <h6>Unet E-Work Busto Arsizio</h6>
               <span className="text">Helvia Recina Macerata</span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -558,11 +558,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.45</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>2.55</span>
                   </Link>
@@ -570,7 +570,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -585,17 +585,17 @@ const TrendingVollyballTab = () => {
               <h6>Reale Mutua Fenera Chieri</h6>
               <span className="text">Volley Vallefoglia</span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -613,11 +613,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>1.15</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>2.75</span>
                   </Link>
@@ -625,7 +625,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -640,17 +640,17 @@ const TrendingVollyballTab = () => {
               <h6>Cuneo Granda Volley</h6>
               <span className="text">Vero Volley Milano</span>
               <p>
-                <Link href="URL:void(0)">Today / 22:00</Link>
+                <Link href="">Today / 22:00</Link>
               </p>
             </div>
           </div>
           <div className="tablebasket__main__wrap">
             <div className="tablebasket__martpoin__wrap pr__40">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right">
+                <Link href="" className="twing twing__right">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
               </div>
@@ -668,11 +668,11 @@ const TrendingVollyballTab = () => {
             <div className="mart__point__items">
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>2.35</span>
                   </Link>
-                  <Link href="URL:void(0)" className="point__box">
+                  <Link href="" className="point__box">
                     <span className="spoint">Set 1</span>
                     <span>3.87</span>
                   </Link>
@@ -680,7 +680,7 @@ const TrendingVollyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -691,10 +691,10 @@ const TrendingVollyballTab = () => {
         </div>
 
         <div className="table__footer">
-          <Link href="URL:void(0)" className="lobby text__opa">
+          <Link href="" className="lobby text__opa">
             OPEN VOLLEYBALL LOBBY
           </Link>
-          <Link href="URL:void(0)" className="footerpoing">
+          <Link href="" className="footerpoing">
             <span>100</span>
             <span>
               <i className="fas fa-angle-right"></i>

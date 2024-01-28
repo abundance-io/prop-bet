@@ -18,8 +18,8 @@ import SignUpModal from "@/components/modals/SignUpModal";
 import "../styles/main.scss";
 
 export const metadata = {
-  title: "Sports Betting React Nextjs Template",
-  description: "Sports Betting React Nextjs Template",
+  title: "prop bets",
+  description: "",
 };
 
 export default function RootLayout({ children }) {

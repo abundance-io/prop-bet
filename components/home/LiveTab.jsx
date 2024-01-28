@@ -1,7 +1,7 @@
 import FooterHome from "../footer/FooterHome";
 import LiveBasketballTab from "./LiveBasketballTab";
 import LiveCricketTab from "./LiveCricketTab";
-import LiveFootballTab from "./LiveFootballTab";
+import GenericTab from "./GenericTab";
 import LiveTableTennisTab from "./LiveTableTennisTab";
 import LiveTennisTab from "./LiveTennisTab";
 import LiveVollyballTab from "./LiveVollyballTab";
@@ -22,7 +22,7 @@ const LiveTab = () => {
             {/* Football */}
             <div className="main__table">
               {/* Football */}
-              <LiveFootballTab thead={false} />
+              <GenericTab thead={false} />
             </div>
             {/* Football */}
           </div>

@@ -19,7 +19,7 @@ const PromotionMain = () => {
                   <div className="promo__content">
                     <h3>Cashback Bonus</h3>
                     <h2>20% up to €800</h2>
-                    <Link href="URL:void(0)" className="cmn--btn2">
+                    <Link href="" className="cmn--btn2">
                       <span>Get Bonus</span>
                     </Link>
                   </div>
@@ -33,7 +33,7 @@ const PromotionMain = () => {
                   <div className="promo__content">
                     <h3>Casino Welcome bonus</h3>
                     <h2>50% up to €900</h2>
-                    <Link href="URL:void(0)" className="cmn--btn2">
+                    <Link href="" className="cmn--btn2">
                       <span>Get Bonus</span>
                     </Link>
                   </div>
@@ -47,7 +47,7 @@ const PromotionMain = () => {
                   <div className="promo__content">
                     <h3>Weekend Reload Bonus</h3>
                     <h2>€700 + 50 Bonus Spins</h2>
-                    <Link href="URL:void(0)" className="cmn--btn2">
+                    <Link href="" className="cmn--btn2">
                       <span>Get Bonus</span>
                     </Link>
                   </div>
@@ -61,7 +61,7 @@ const PromotionMain = () => {
                   <div className="promo__content">
                     <h3>Casino Welcome bonus</h3>
                     <h2>25% up to €4,000</h2>
-                    <Link href="URL:void(0)" className="cmn--btn2">
+                    <Link href="" className="cmn--btn2">
                       <span>Get Bonus</span>
                     </Link>
                   </div>

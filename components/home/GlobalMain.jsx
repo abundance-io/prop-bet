@@ -12,23 +12,19 @@ import LiveTab from "./LiveTab";
 import TennisTab from "./TennisTab";
 import TodayTab from "./TodayTab";
 import VirtualTab from "./VirtualTab";
+import "dotenv/config";
 
 const GlobalMain = () => {
   return (
     <div className="popular__events__body">
       <div className="container-fluid p-0">
         <div className="row g-0">
-          <div className="col-xxl-2 col-xl-3 col-lg-3">
-            {/* Popular Events */}
-            <PopularEvents />
-          </div>
-          <div className="col-xxl-10 col-xl-9 col-lg-9">
+          <div className="mx-5 col-lg-11">
             {/* Home Page Tabs Here */}
             <HomeTab />
             {/* Home Page Tabs Here */}
 
             {/* Live Page Tabs Here */}
-            <LiveTab />
             {/* Live Page Tabs End */}
 
             {/* Today Page Tabs Here */}
@@ -72,7 +68,6 @@ const GlobalMain = () => {
             {/* Virtual Page Tabs End */}
 
             {/* Fovatires Page Tabs Here */}
-            <FovatiresTab />
             {/* Fovatires Page Tabs End */}
           </div>
         </div>

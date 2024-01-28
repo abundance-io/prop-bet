@@ -26,23 +26,6 @@ const NavBar = () => {
                 <Image src={logo} alt="logo" />
               </Link>
             </div>
-            <div className="lang d-flex align-items-center px-2">
-              <div className="language__wrap">
-                <div className="flag">
-                  <Image src={uk} alt="flag" />
-                </div>
-                {/* Select */}
-                <Select data={lang} />
-              </div>
-              <div
-                className={`header-bar d-lg-none ${active ? "active" : ""}`}
-                onClick={() => setActive(!active)}
-              >
-                <span></span>
-                <span></span>
-                <span></span>
-              </div>
-            </div>
             <ul className={`main-menu ${active ? "active" : ""}`}>
               <li>
                 <Link href="/">
@@ -60,7 +43,7 @@ const NavBar = () => {
                 </Link>
               </li>
               <li>
-                <Link href="URL:void(0)">
+                <Link href="">
                   <span>Lucky Drops</span>
                 </Link>
               </li>
@@ -76,7 +59,7 @@ const NavBar = () => {
               </li>
               <li className="cmn-grp">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="cmn--btn"
                   data-bs-toggle="modal"
                   data-bs-target="#signInPin"
@@ -84,7 +67,7 @@ const NavBar = () => {
                   <span>Sign In</span>
                 </Link>
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="cmn--btn2"
                   data-bs-toggle="modal"
                   data-bs-target="#signUpPin"
@@ -95,15 +78,8 @@ const NavBar = () => {
             </ul>
           </div>
           <div className="mneu-btn-grp">
-            <div className="language__wrap">
-              <div className="flag">
-                <Image src={uk} alt="flag" />
-              </div>
-              {/* Select */}
-              <Select data={lang} />
-            </div>
             <Link
-              href="URL:void(0)"
+              href=""
               className="cmn--btn"
               data-bs-toggle="modal"
               data-bs-target="#signInPin"
@@ -111,7 +87,7 @@ const NavBar = () => {
               <span>Sign In</span>
             </Link>
             <Link
-              href="URL:void(0)"
+              href=""
               className="cmn--btn2"
               data-bs-toggle="modal"
               data-bs-target="#signUpPin"

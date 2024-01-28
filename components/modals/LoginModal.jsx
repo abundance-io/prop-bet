@@ -70,17 +70,17 @@ const LoginModal = () => {
                             <div className="social__head">
                               <ul className="social">
                                 <li>
-                                  <Link href="URL:void(0)">
+                                  <Link href="">
                                     <i className="fa-brands fa-facebook-f"></i>
                                   </Link>
                                 </li>
                                 <li>
-                                  <Link href="URL:void(0)">
+                                  <Link href="">
                                     <i className="fab fa-twitter"></i>
                                   </Link>
                                 </li>
                                 <li>
-                                  <Link href="URL:void(0)">
+                                  <Link href="">
                                     <i className="fa-brands fa-linkedin-in"></i>
                                   </Link>
                                 </li>
@@ -122,16 +122,16 @@ const LoginModal = () => {
                                   Remember me
                                 </label>
                               </div>
-                              <Link href="URL:void(0)">Forgot Password</Link>
+                              <Link href="">Forgot Password</Link>
                             </div>
                             <div className="create__btn">
-                              <Link href="URL:void(0)" className="cmn--btn">
+                              <Link href="" className="cmn--btn">
                                 <span>Sign Up</span>
                               </Link>
                             </div>
                             <p>
                               Do you have an account?{" "}
-                              <Link href="URL:void(0)">Registration</Link>
+                              <Link href="">Registration</Link>
                             </p>
                           </form>
                         </div>
@@ -147,17 +147,17 @@ const LoginModal = () => {
                             <div className="social__head">
                               <ul className="social">
                                 <li>
-                                  <Link href="URL:void(0)">
+                                  <Link href="">
                                     <i className="fa-brands fa-facebook-f"></i>
                                   </Link>
                                 </li>
                                 <li>
-                                  <Link href="URL:void(0)">
+                                  <Link href="">
                                     <i className="fab fa-twitter"></i>
                                   </Link>
                                 </li>
                                 <li>
-                                  <Link href="URL:void(0)">
+                                  <Link href="">
                                     <i className="fa-brands fa-linkedin-in"></i>
                                   </Link>
                                 </li>
@@ -188,13 +188,13 @@ const LoginModal = () => {
                               ></span>
                             </div>
                             <div className="create__btn">
-                              <Link href="URL:void(0)" className="cmn--btn">
+                              <Link href="" className="cmn--btn">
                                 <span>Sign Up</span>
                               </Link>
                             </div>
                             <p>
                               Do you have an account?{" "}
-                              <Link href="URL:void(0)">Login</Link>
+                              <Link href="">Login</Link>
                             </p>
                           </form>
                         </div>

@@ -17,11 +17,11 @@ const NextAllTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>2.95</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>1.35</span>
             </Link>
@@ -50,11 +50,11 @@ const NextAllTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>2.00</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>1.72</span>
             </Link>
@@ -83,11 +83,11 @@ const NextAllTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>2.00</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>1.20</span>
             </Link>
@@ -116,11 +116,11 @@ const NextAllTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>5.23</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>4.53</span>
             </Link>
@@ -149,11 +149,11 @@ const NextAllTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>4.23</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>3.53</span>
             </Link>
@@ -182,15 +182,15 @@ const NextAllTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">1</span>
               <span>2.22</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>3.53</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">2</span>
               <span>3.53</span>
             </Link>
@@ -219,7 +219,7 @@ const NextAllTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__boxbet">
+            <Link href="" className="point__boxbet">
               <span>Bet now</span>
             </Link>
           </div>

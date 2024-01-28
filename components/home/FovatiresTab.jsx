@@ -1,13 +1,5 @@
 import Image from "next/image";
 import FooterHome from "../footer/FooterHome";
-import aris from "/public/img/matchfixing/aris.png";
-import arjentina from "/public/img/matchfixing/arjentina.png";
-import denmark from "/public/img/matchfixing/denmark.png";
-import france from "/public/img/matchfixing/france.png";
-import gs from "/public/img/matchfixing/gs.png";
-import maxico from "/public/img/matchfixing/maxico.png";
-import poland from "/public/img/matchfixing/poland.png";
-import tenerif from "/public/img/matchfixing/tenerif.png";
 
 import Link from "next/link";
 import fujian from "/public/img/matchfixing/fujian.png";
@@ -31,7 +23,7 @@ const FovatiresTab = () => {
           </div>
           <div className="row g-4 mb__30">
             <div className="col-xxl-3 col-xl-6 col-lg-6 col-md-6">
-              <Link href="URL:void(0)" className="match__fixing__items">
+              <Link href="" className="match__fixing__items">
                 <div className="match__head">
                   <div className="match__head__left">
                     <span className="icons">
@@ -46,15 +38,9 @@ const FovatiresTab = () => {
                 <div className="match__vs">
                   <div className="match__vs__left">
                     <span>Argentina</span>
-                    <span className="flag">
-                      <Image src={arjentina} alt="flag" />
-                    </span>
                   </div>
                   <span className="vs">Vs</span>
                   <div className="match__vs__left">
-                    <span className="flag">
-                      <Image src={france} alt="flag" />
-                    </span>
                     <span>France</span>
                   </div>
                 </div>
@@ -76,7 +62,7 @@ const FovatiresTab = () => {
               </Link>
             </div>
             <div className="col-xxl-3 col-xl-6 col-lg-6 col-md-6">
-              <Link href="URL:void(0)" className="match__fixing__items">
+              <Link href="" className="match__fixing__items">
                 <div className="match__head">
                   <div className="match__head__left">
                     <span className="icons">
@@ -91,15 +77,9 @@ const FovatiresTab = () => {
                 <div className="match__vs">
                   <div className="match__vs__left">
                     <span>Poland</span>
-                    <span className="flag">
-                      <Image src={poland} alt="flag" />
-                    </span>
                   </div>
                   <span className="vs">Vs</span>
                   <div className="match__vs__left">
-                    <span className="flag">
-                      <Image src={denmark} alt="flag" />
-                    </span>
                     <span>Denmark</span>
                   </div>
                 </div>
@@ -121,7 +101,7 @@ const FovatiresTab = () => {
               </Link>
             </div>
             <div className="col-xxl-3 col-xl-6 col-lg-6 col-md-6">
-              <Link href="URL:void(0)" className="match__fixing__items">
+              <Link href="" className="match__fixing__items">
                 <div className="match__head">
                   <div className="match__head__left">
                     <span className="icons">
@@ -136,15 +116,9 @@ const FovatiresTab = () => {
                 <div className="match__vs">
                   <div className="match__vs__left">
                     <span>Mexico</span>
-                    <span className="flag">
-                      <Image src={maxico} alt="flag" />
-                    </span>
                   </div>
                   <span className="vs">Vs</span>
                   <div className="match__vs__left">
-                    <span className="flag">
-                      <Image src={poland} alt="flag" />
-                    </span>
                     <span>Poland</span>
                   </div>
                 </div>
@@ -166,7 +140,7 @@ const FovatiresTab = () => {
               </Link>
             </div>
             <div className="col-xxl-3 col-xl-6 col-lg-6 col-md-6">
-              <Link href="URL:void(0)" className="match__fixing__items">
+              <Link href="" className="match__fixing__items">
                 <div className="match__head">
                   <div className="match__head__left">
                     <span className="icons">
@@ -181,15 +155,9 @@ const FovatiresTab = () => {
                 <div className="match__vs">
                   <div className="match__vs__left">
                     <span>Farense</span>
-                    <span className="flag">
-                      <Image src={france} alt="flag" />
-                    </span>
                   </div>
                   <span className="vs">Vs</span>
                   <div className="match__vs__left">
-                    <span className="flag">
-                      <Image src={tenerif} alt="flag" />
-                    </span>
                     <span>Tenerife</span>
                   </div>
                 </div>
@@ -219,7 +187,7 @@ const FovatiresTab = () => {
           </div>
           <div className="row g-4">
             <div className="col-xxl-3 col-xl-6 col-lg-6 col-md-6">
-              <Link href="URL:void(0)" className="match__fixing__items">
+              <Link href="" className="match__fixing__items">
                 <div className="match__head">
                   <div className="match__head__left">
                     <span className="icons">
@@ -234,15 +202,9 @@ const FovatiresTab = () => {
                 <div className="match__vs">
                   <div className="match__vs__left">
                     <span>Aris</span>
-                    <span className="flag">
-                      <Image src={aris} alt="flag" />
-                    </span>
                   </div>
                   <span className="vs">Vs</span>
                   <div className="match__vs__left">
-                    <span className="flag">
-                      <Image src={gs} alt="flag" />
-                    </span>
                     <span>GS Lavriou</span>
                   </div>
                 </div>
@@ -264,7 +226,7 @@ const FovatiresTab = () => {
               </Link>
             </div>
             <div className="col-xxl-3 col-xl-6 col-lg-6 col-md-6">
-              <Link href="URL:void(0)" className="match__fixing__items">
+              <Link href="" className="match__fixing__items">
                 <div className="match__head">
                   <div className="match__head__left">
                     <span className="icons">
@@ -279,15 +241,9 @@ const FovatiresTab = () => {
                 <div className="match__vs">
                   <div className="match__vs__left">
                     <span>Aris</span>
-                    <span className="flag">
-                      <Image src={aris} alt="flag" />
-                    </span>
                   </div>
                   <span className="vs">Vs</span>
                   <div className="match__vs__left">
-                    <span className="flag">
-                      <Image src={fujian} alt="flag" />
-                    </span>
                     <span>Fujian</span>
                   </div>
                 </div>
@@ -311,11 +267,7 @@ const FovatiresTab = () => {
           </div>
         </div>
       </div>
-      {/* main body */}
-
-      {/* Footer Start */}
       <FooterHome />
-      {/* Footer End */}
     </div>
   );
 };

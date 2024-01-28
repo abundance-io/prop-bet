@@ -54,10 +54,10 @@ const LiveVollyballTab = ({ thead = true }) => {
             <div className="tennis__cart__wrap"></div>
             <div className="tennis__right">
               <div className="mart__point__items">
-                <Link href="URL:void(0)" className="twing twing__right opo">
+                <Link href="" className="twing twing__right opo">
                   <i className="icon-twer"></i>
                 </Link>
-                <Link href="URL:void(0)" className="mart opo">
+                <Link href="" className="mart opo">
                   <i className="icon-pmart"></i>
                 </Link>
                 <Link href="#0box" className="point__box bg__none">
@@ -69,10 +69,10 @@ const LiveVollyballTab = ({ thead = true }) => {
               </div>
               <div className="mart__point__two">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     1
                   </Link>
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     2
                   </Link>
                 </div>
@@ -82,15 +82,15 @@ const LiveVollyballTab = ({ thead = true }) => {
               </div>
               <div className="mart__point__two">
                 <div className="mart__point__left">
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     Over
                   </Link>
-                  <Link href="URL:void(0)" className="point__box bg__none">
+                  <Link href="" className="point__box bg__none">
                     Under
                   </Link>
                 </div>
                 <div className="mart__point__right">
-                  <Link href="URL:void(0)" className="point__box bg__none opo">
+                  <Link href="" className="point__box bg__none opo">
                     <i className="icon-star star"></i>
                   </Link>
                 </div>
@@ -105,7 +105,7 @@ const LiveVollyballTab = ({ thead = true }) => {
               <h6>Tokyo Great Bears</h6>
               <span className="text">JT Thunders</span>
               <p>
-                <Link href="URL:void(0)">Live</Link>
+                <Link href="">Live</Link>
                 <span>3rd Set</span>
               </p>
             </div>
@@ -123,10 +123,10 @@ const LiveVollyballTab = ({ thead = true }) => {
           </div>
           <div className="tennis__right">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -138,10 +138,10 @@ const LiveVollyballTab = ({ thead = true }) => {
             </div>
             <div className="mart__point__two">
               <div className="mart__point__left">
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   7.05
                 </Link>
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   5.50
                 </Link>
               </div>
@@ -151,15 +151,15 @@ const LiveVollyballTab = ({ thead = true }) => {
             </div>
             <div className="mart__point__two">
               <div className="mart__point__left">
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   3.05
                 </Link>
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   6.50
                 </Link>
               </div>
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -172,7 +172,7 @@ const LiveVollyballTab = ({ thead = true }) => {
               <h6>Sichuan</h6>
               <span className="text">Zhejiang</span>
               <p>
-                <Link href="URL:void(0)">Live</Link>
+                <Link href="">Live</Link>
                 <span>3rd Set</span>
               </p>
             </div>
@@ -190,10 +190,10 @@ const LiveVollyballTab = ({ thead = true }) => {
           </div>
           <div className="tennis__right">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart">
+              <Link href="" className="mart">
                 <i className="icon-pmart"></i>
               </Link>
               <Link
@@ -218,15 +218,15 @@ const LiveVollyballTab = ({ thead = true }) => {
             </div>
             <div className="mart__point__two">
               <div className="mart__point__left">
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   6.32
                 </Link>
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   5.55
                 </Link>
               </div>
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -239,7 +239,7 @@ const LiveVollyballTab = ({ thead = true }) => {
               <h6>Ben Tre</h6>
               <span className="text">Zhejiang</span>
               <p>
-                <Link href="URL:void(0)">Live</Link>
+                <Link href="">Live</Link>
                 <span>3rd Set</span>
               </p>
             </div>
@@ -257,10 +257,10 @@ const LiveVollyballTab = ({ thead = true }) => {
           </div>
           <div className="tennis__right">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart">
+              <Link href="" className="mart">
                 <i className="icon-pmart"></i>
               </Link>
               <Link
@@ -285,15 +285,15 @@ const LiveVollyballTab = ({ thead = true }) => {
             </div>
             <div className="mart__point__two">
               <div className="mart__point__left">
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   5.36
                 </Link>
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   9.36
                 </Link>
               </div>
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -306,7 +306,7 @@ const LiveVollyballTab = ({ thead = true }) => {
               <h6>Gold City More Asia</h6>
               <span className="text">Kasetsart VC</span>
               <p>
-                <Link href="URL:void(0)">Live</Link>
+                <Link href="">Live</Link>
                 <span>3rd Set</span>
               </p>
             </div>
@@ -324,10 +324,10 @@ const LiveVollyballTab = ({ thead = true }) => {
           </div>
           <div className="tennis__right">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -339,10 +339,10 @@ const LiveVollyballTab = ({ thead = true }) => {
             </div>
             <div className="mart__point__two">
               <div className="mart__point__left">
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   7.05
                 </Link>
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   5.50
                 </Link>
               </div>
@@ -352,15 +352,15 @@ const LiveVollyballTab = ({ thead = true }) => {
             </div>
             <div className="mart__point__two">
               <div className="mart__point__left">
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   3.05
                 </Link>
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   6.50
                 </Link>
               </div>
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -373,7 +373,7 @@ const LiveVollyballTab = ({ thead = true }) => {
               <h6>Mizuno</h6>
               <span className="text">Taipower</span>
               <p>
-                <Link href="URL:void(0)" className="text__opa">
+                <Link href="" className="text__opa">
                   Starting
                 </Link>
                 <span className="text__btn">now</span>
@@ -393,10 +393,10 @@ const LiveVollyballTab = ({ thead = true }) => {
           </div>
           <div className="tennis__right">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -408,10 +408,10 @@ const LiveVollyballTab = ({ thead = true }) => {
             </div>
             <div className="mart__point__two">
               <div className="mart__point__left">
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   7.05
                 </Link>
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   5.50
                 </Link>
               </div>
@@ -421,15 +421,15 @@ const LiveVollyballTab = ({ thead = true }) => {
             </div>
             <div className="mart__point__two">
               <div className="mart__point__left">
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   3.05
                 </Link>
-                <Link href="URL:void(0)" className="point__box">
+                <Link href="" className="point__box">
                   6.50
                 </Link>
               </div>
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -437,10 +437,10 @@ const LiveVollyballTab = ({ thead = true }) => {
           </div>
         </div>
         <div className="table__footer">
-          <Link href="URL:void(0)" className="lobby text__opa">
+          <Link href="" className="lobby text__opa">
             Open <span className="text__btn"> Volleyball Live</span> Events
           </Link>
-          <Link href="URL:void(0)" className="footerpoing">
+          <Link href="" className="footerpoing">
             <span>8</span>
             <span>
               <i className="fas fa-angle-right"></i>

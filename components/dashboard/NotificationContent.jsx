@@ -42,7 +42,7 @@ const NotificationContent = () => {
             <p>Transactional emails and account notifications</p>
           </div>
           <div className="right">
-            <Link href="URL:void(0)">Legally obligated</Link>
+            <Link href="">Legally obligated</Link>
           </div>
         </div>
       </div>

@@ -63,18 +63,18 @@ const FootballTab = () => {
                       <h6>Netherlands</h6>
                       <span className="text">England</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 21:00</Link>
-                        <Link href="URL:void(0)" className="today">
+                        <Link href="">Today / 21:00</Link>
+                        <Link href="" className="today">
                           Today / 21:00
                         </Link>
                       </p>
                     </div>
                   </div>
                   <div className="mart__point__items">
-                    <Link href="URL:void(0)" className="twing twing__right">
+                    <Link href="" className="twing twing__right">
                       <i className="icon-twer"></i>
                     </Link>
-                    <Link href="URL:void(0)" className="mart opo">
+                    <Link href="" className="mart opo">
                       <i className="icon-pmart"></i>
                     </Link>
                     <Link href="#0box" className="point__box">
@@ -90,21 +90,21 @@ const FootballTab = () => {
                   <div className="cart__point cart__point__two">2,6</div>
                   <div className="mart__point__two">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.50
                       </Link>
                     </div>
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         3.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         6.50
                       </Link>
-                      <Link href="URL:void(0)" className="point__box bg__none">
+                      <Link href="" className="point__box bg__none">
                         <i className="icon-star star"></i>
                       </Link>
                     </div>
@@ -116,18 +116,18 @@ const FootballTab = () => {
                       <h6>USA</h6>
                       <span className="text">Senegal</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 21:00</Link>
-                        <Link href="URL:void(0)" className="today">
+                        <Link href="">Today / 21:00</Link>
+                        <Link href="" className="today">
                           Today / 21:00
                         </Link>
                       </p>
                     </div>
                   </div>
                   <div className="mart__point__items">
-                    <Link href="URL:void(0)" className="twing twing__right">
+                    <Link href="" className="twing twing__right">
                       <i className="icon-twer"></i>
                     </Link>
-                    <Link href="URL:void(0)" className="mart opo">
+                    <Link href="" className="mart opo">
                       <i className="icon-pmart"></i>
                     </Link>
                     <Link href="#0box" className="point__box">
@@ -143,21 +143,21 @@ const FootballTab = () => {
                   <div className="cart__point cart__point__two">2,6</div>
                   <div className="mart__point__two">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.50
                       </Link>
                     </div>
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         3.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         6.50
                       </Link>
-                      <Link href="URL:void(0)" className="point__box bg__none">
+                      <Link href="" className="point__box bg__none">
                         <i className="icon-star star"></i>
                       </Link>
                     </div>
@@ -169,18 +169,18 @@ const FootballTab = () => {
                       <h6>Prance</h6>
                       <span className="text">Poland</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 21:00</Link>
-                        <Link href="URL:void(0)" className="today">
+                        <Link href="">Today / 21:00</Link>
+                        <Link href="" className="today">
                           Today / 21:00
                         </Link>
                       </p>
                     </div>
                   </div>
                   <div className="mart__point__items">
-                    <Link href="URL:void(0)" className="twing twing__right">
+                    <Link href="" className="twing twing__right">
                       <i className="icon-twer"></i>
                     </Link>
-                    <Link href="URL:void(0)" className="mart opo">
+                    <Link href="" className="mart opo">
                       <i className="icon-pmart"></i>
                     </Link>
                     <Link href="#0box" className="point__box">
@@ -196,21 +196,21 @@ const FootballTab = () => {
                   <div className="cart__point cart__point__two">2,6</div>
                   <div className="mart__point__two">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.50
                       </Link>
                     </div>
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         3.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         6.50
                       </Link>
-                      <Link href="URL:void(0)" className="point__box bg__none">
+                      <Link href="" className="point__box bg__none">
                         <i className="icon-star star"></i>
                       </Link>
                     </div>
@@ -222,18 +222,18 @@ const FootballTab = () => {
                       <h6>Argentina</h6>
                       <span className="text">Australia</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 21:00</Link>
-                        <Link href="URL:void(0)" className="today">
+                        <Link href="">Today / 21:00</Link>
+                        <Link href="" className="today">
                           Today / 21:00
                         </Link>
                       </p>
                     </div>
                   </div>
                   <div className="mart__point__items">
-                    <Link href="URL:void(0)" className="twing twing__right">
+                    <Link href="" className="twing twing__right">
                       <i className="icon-twer"></i>
                     </Link>
-                    <Link href="URL:void(0)" className="mart opo">
+                    <Link href="" className="mart opo">
                       <i className="icon-pmart"></i>
                     </Link>
                     <Link href="#0box" className="point__box">
@@ -249,21 +249,21 @@ const FootballTab = () => {
                   <div className="cart__point cart__point__two">2,6</div>
                   <div className="mart__point__two">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.50
                       </Link>
                     </div>
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         3.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         6.50
                       </Link>
-                      <Link href="URL:void(0)" className="point__box bg__none">
+                      <Link href="" className="point__box bg__none">
                         <i className="icon-star star"></i>
                       </Link>
                     </div>
@@ -275,18 +275,18 @@ const FootballTab = () => {
                       <h6>France</h6>
                       <span className="text">Senegal</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 21:00</Link>
-                        <Link href="URL:void(0)" className="today">
+                        <Link href="">Today / 21:00</Link>
+                        <Link href="" className="today">
                           Today / 21:00
                         </Link>
                       </p>
                     </div>
                   </div>
                   <div className="mart__point__items">
-                    <Link href="URL:void(0)" className="twing twing__right">
+                    <Link href="" className="twing twing__right">
                       <i className="icon-twer"></i>
                     </Link>
-                    <Link href="URL:void(0)" className="mart opo">
+                    <Link href="" className="mart opo">
                       <i className="icon-pmart"></i>
                     </Link>
                     <Link href="#0box" className="point__box">
@@ -302,21 +302,21 @@ const FootballTab = () => {
                   <div className="cart__point cart__point__two">2,6</div>
                   <div className="mart__point__two">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.50
                       </Link>
                     </div>
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         3.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         6.50
                       </Link>
-                      <Link href="URL:void(0)" className="point__box bg__none">
+                      <Link href="" className="point__box bg__none">
                         <i className="icon-star star"></i>
                       </Link>
                     </div>
@@ -328,18 +328,18 @@ const FootballTab = () => {
                       <h6>Japan</h6>
                       <span className="text">Croatia</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 21:00</Link>
-                        <Link href="URL:void(0)" className="today">
+                        <Link href="">Today / 21:00</Link>
+                        <Link href="" className="today">
                           Today / 21:00
                         </Link>
                       </p>
                     </div>
                   </div>
                   <div className="mart__point__items">
-                    <Link href="URL:void(0)" className="twing twing__right">
+                    <Link href="" className="twing twing__right">
                       <i className="icon-twer"></i>
                     </Link>
-                    <Link href="URL:void(0)" className="mart opo">
+                    <Link href="" className="mart opo">
                       <i className="icon-pmart"></i>
                     </Link>
                     <Link href="#0box" className="point__box">
@@ -355,21 +355,21 @@ const FootballTab = () => {
                   <div className="cart__point cart__point__two">2,6</div>
                   <div className="mart__point__two">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.50
                       </Link>
                     </div>
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         3.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         6.50
                       </Link>
-                      <Link href="URL:void(0)" className="point__box bg__none">
+                      <Link href="" className="point__box bg__none">
                         <i className="icon-star star"></i>
                       </Link>
                     </div>
@@ -381,18 +381,18 @@ const FootballTab = () => {
                       <h6>Brazil</h6>
                       <span className="text">Korea Republic</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 21:00</Link>
-                        <Link href="URL:void(0)" className="today">
+                        <Link href="">Today / 21:00</Link>
+                        <Link href="" className="today">
                           Today / 21:00
                         </Link>
                       </p>
                     </div>
                   </div>
                   <div className="mart__point__items">
-                    <Link href="URL:void(0)" className="twing twing__right">
+                    <Link href="" className="twing twing__right">
                       <i className="icon-twer"></i>
                     </Link>
-                    <Link href="URL:void(0)" className="mart opo">
+                    <Link href="" className="mart opo">
                       <i className="icon-pmart"></i>
                     </Link>
                     <Link href="#0box" className="point__box">
@@ -408,21 +408,21 @@ const FootballTab = () => {
                   <div className="cart__point cart__point__two">2,6</div>
                   <div className="mart__point__two">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.50
                       </Link>
                     </div>
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         3.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         6.50
                       </Link>
-                      <Link href="URL:void(0)" className="point__box bg__none">
+                      <Link href="" className="point__box bg__none">
                         <i className="icon-star star"></i>
                       </Link>
                     </div>
@@ -434,18 +434,18 @@ const FootballTab = () => {
                       <h6>Real Zaragoza</h6>
                       <span className="text">Casa Pia Lisbon</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 21:00</Link>
-                        <Link href="URL:void(0)" className="today">
+                        <Link href="">Today / 21:00</Link>
+                        <Link href="" className="today">
                           Today / 21:00
                         </Link>
                       </p>
                     </div>
                   </div>
                   <div className="mart__point__items">
-                    <Link href="URL:void(0)" className="twing twing__right">
+                    <Link href="" className="twing twing__right">
                       <i className="icon-twer"></i>
                     </Link>
-                    <Link href="URL:void(0)" className="mart opo">
+                    <Link href="" className="mart opo">
                       <i className="icon-pmart"></i>
                     </Link>
                     <Link href="#0box" className="point__box">
@@ -461,21 +461,21 @@ const FootballTab = () => {
                   <div className="cart__point cart__point__two">2,6</div>
                   <div className="mart__point__two">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.50
                       </Link>
                     </div>
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         3.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         6.50
                       </Link>
-                      <Link href="URL:void(0)" className="point__box bg__none">
+                      <Link href="" className="point__box bg__none">
                         <i className="icon-star star"></i>
                       </Link>
                     </div>
@@ -487,18 +487,18 @@ const FootballTab = () => {
                       <h6>SC Braga</h6>
                       <span className="text">Real Zaragoza</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 21:00</Link>
-                        <Link href="URL:void(0)" className="today">
+                        <Link href="">Today / 21:00</Link>
+                        <Link href="" className="today">
                           Today / 21:00
                         </Link>
                       </p>
                     </div>
                   </div>
                   <div className="mart__point__items">
-                    <Link href="URL:void(0)" className="twing twing__right">
+                    <Link href="" className="twing twing__right">
                       <i className="icon-twer"></i>
                     </Link>
-                    <Link href="URL:void(0)" className="mart opo">
+                    <Link href="" className="mart opo">
                       <i className="icon-pmart"></i>
                     </Link>
                     <Link href="#0box" className="point__box">
@@ -514,21 +514,21 @@ const FootballTab = () => {
                   <div className="cart__point cart__point__two">2,6</div>
                   <div className="mart__point__two">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.50
                       </Link>
                     </div>
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         3.05
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         6.50
                       </Link>
-                      <Link href="URL:void(0)" className="point__box bg__none">
+                      <Link href="" className="point__box bg__none">
                         <i className="icon-star star"></i>
                       </Link>
                     </div>
@@ -548,15 +548,15 @@ const FootballTab = () => {
                   </div>
                   <div className="mart__point__two mart__pint__nextgo">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">1</span>
                         <span>2.25</span>
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">x</span>
                         <span>3.00</span>
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">2</span>
                         <span>2.53</span>
                       </Link>
@@ -587,7 +587,7 @@ const FootballTab = () => {
                   </div>
                   <div className="mart__point__two mart__pint__nextgo">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__boxbet">
+                      <Link href="" className="point__boxbet">
                         <span>Bet now</span>
                       </Link>
                     </div>
@@ -619,7 +619,7 @@ const FootballTab = () => {
                   </div>
                   <div className="mart__point__two mart__pint__nextgo">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__boxbet">
+                      <Link href="" className="point__boxbet">
                         <span>Bet now</span>
                       </Link>
                     </div>
@@ -650,15 +650,15 @@ const FootballTab = () => {
                   </div>
                   <div className="mart__point__two mart__pint__nextgo">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">1</span>
                         <span>6.22</span>
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">X</span>
                         <span>4.53</span>
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">2</span>
                         <span>3.53</span>
                       </Link>
@@ -690,15 +690,15 @@ const FootballTab = () => {
                   </div>
                   <div className="mart__point__two mart__pint__nextgo">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">1</span>
                         <span>5.22</span>
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">X</span>
                         <span>4.53</span>
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">2</span>
                         <span>3.53</span>
                       </Link>
@@ -734,11 +734,11 @@ const FootballTab = () => {
                   </div>
                   <div className="mart__point__two mart__pint__nextgo">
                     <div className="mart__point__left">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">1</span>
                         <span>3.20</span>
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         <span className="point__1">2</span>
                         <span>2.40</span>
                       </Link>
@@ -757,10 +757,10 @@ const FootballTab = () => {
                   </div>
                 </div>
                 <div className="table__footer">
-                  <Link href="URL:void(0)" className="lobby text__opa">
+                  <Link href="" className="lobby text__opa">
                     Open Football lobby
                   </Link>
-                  <Link href="URL:void(0)" className="footerpoing">
+                  <Link href="" className="footerpoing">
                     <span>790</span>
                     <span>
                       <i className="fas fa-angle-right"></i>

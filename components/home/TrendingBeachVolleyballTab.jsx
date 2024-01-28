@@ -38,7 +38,7 @@ const TrendingBeachVolleyballTab = () => {
             <div className="t__items__left">
               <h6>Tour de France 2023 - General Classification</h6>
               <p>
-                <Link href="URL:void(0)">23/07/2023 22:00</Link>
+                <Link href="">23/07/2023 22:00</Link>
               </p>
             </div>
           </div>
@@ -47,7 +47,7 @@ const TrendingBeachVolleyballTab = () => {
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
                   <Link
-                    href="URL:void(0)"
+                    href=""
                     className="point__box aroow__text bg__none"
                   >
                     <span>Bet now</span>
@@ -59,7 +59,7 @@ const TrendingBeachVolleyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -73,7 +73,7 @@ const TrendingBeachVolleyballTab = () => {
             <div className="t__items__left">
               <h6>Tour of Flanders 2023</h6>
               <p>
-                <Link href="URL:void(0)">23/07/2023 22:00</Link>
+                <Link href="">23/07/2023 22:00</Link>
               </p>
             </div>
           </div>
@@ -82,7 +82,7 @@ const TrendingBeachVolleyballTab = () => {
               <div className="martbas__pointlast">
                 <div className="mart__point__left">
                   <Link
-                    href="URL:void(0)"
+                    href=""
                     className="point__box aroow__text bg__none"
                   >
                     <span>Bet now</span>
@@ -94,7 +94,7 @@ const TrendingBeachVolleyballTab = () => {
               </div>
               <div className="mart__point__right">
                 <Link
-                  href="URL:void(0)"
+                  href=""
                   className="point__box point__boxpadding bg__none"
                 >
                   <i className="icon-star star"></i>
@@ -105,10 +105,10 @@ const TrendingBeachVolleyballTab = () => {
         </div>
 
         <div className="table__footer">
-          <Link href="URL:void(0)" className="lobby text__opa">
+          <Link href="" className="lobby text__opa">
             OPEN GOLF LOBBY
           </Link>
-          <Link href="URL:void(0)" className="footerpoing">
+          <Link href="" className="footerpoing">
             <span>4</span>
             <span>
               <i className="fas fa-angle-right"></i>

@@ -67,10 +67,10 @@ const TrendingTennisTab = () => {
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -90,10 +90,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -110,16 +110,16 @@ const TrendingTennisTab = () => {
                 Ana Konjuh <span>CRO</span>
               </span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -139,10 +139,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -159,16 +159,16 @@ const TrendingTennisTab = () => {
                 Victor Lilov <span>USA</span>
               </span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -188,10 +188,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -208,16 +208,16 @@ const TrendingTennisTab = () => {
                 Alycia Parks <span>USA</span>
               </span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -237,10 +237,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -257,16 +257,16 @@ const TrendingTennisTab = () => {
                 Nick Hardt <span>DOM</span>
               </span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -286,10 +286,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -306,16 +306,16 @@ const TrendingTennisTab = () => {
                 Mark Lajal <span>EST</span>
               </span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -335,10 +335,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -355,16 +355,16 @@ const TrendingTennisTab = () => {
                 Dino Prizmic <span>CRO</span>
               </span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -384,10 +384,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -404,16 +404,16 @@ const TrendingTennisTab = () => {
                 Daniel Rincon <span>ESP</span>
               </span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -433,10 +433,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -453,16 +453,16 @@ const TrendingTennisTab = () => {
                 Ana Konjuh <span>CRO</span>
               </span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -482,10 +482,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -502,16 +502,16 @@ const TrendingTennisTab = () => {
                 Ana Konjuh <span>CRO</span>
               </span>
               <p>
-                <Link href="URL:void(0)">Today / 21:00</Link>
+                <Link href="">Today / 21:00</Link>
               </p>
             </div>
           </div>
           <div className="tableright__tennis">
             <div className="mart__point__items">
-              <Link href="URL:void(0)" className="twing twing__right">
+              <Link href="" className="twing twing__right">
                 <i className="icon-twer"></i>
               </Link>
-              <Link href="URL:void(0)" className="mart opo">
+              <Link href="" className="mart opo">
                 <i className="icon-pmart"></i>
               </Link>
               <Link href="#0box" className="point__box">
@@ -531,10 +531,10 @@ const TrendingTennisTab = () => {
             </div>
             <div className="mart__point__two pl__40">
               <div className="mart__point__right">
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-lock"></i>
                 </Link>
-                <Link href="URL:void(0)" className="point__box bg__none">
+                <Link href="" className="point__box bg__none">
                   <i className="icon-star star"></i>
                 </Link>
               </div>
@@ -543,10 +543,10 @@ const TrendingTennisTab = () => {
         </div>
 
         <div className="table__footer">
-          <Link href="URL:void(0)" className="lobby text__opa">
+          <Link href="" className="lobby text__opa">
             Open Tennis lobby
           </Link>
-          <Link href="URL:void(0)" className="footerpoing">
+          <Link href="" className="footerpoing">
             <span>50</span>
             <span>
               <i className="fas fa-angle-right"></i>

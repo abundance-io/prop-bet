@@ -122,7 +122,7 @@ const IdentityContent = () => {
           </label>
         </div>
         <div className="save__btn mt-3 d-flex">
-          <Link href="URL:void(0)" className="cmn--btn">
+          <Link href="" className="cmn--btn">
             <span>Save</span>
           </Link>
         </div>

@@ -137,7 +137,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>United States - Wales</span>
-            <Link href="URL:void(0)">Bets closed</Link>
+            <Link href="">Bets closed</Link>
           </div>
         </div>
         <div
@@ -149,7 +149,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>Portugal-Uruguay</span>
-            <Link href="URL:void(0)">Bets closed</Link>
+            <Link href="">Bets closed</Link>
           </div>
           <div className="ecuador__match__fixing">
             <div className="equador__head">
@@ -162,22 +162,22 @@ const TimeTableTab = ({ id }) => {
                   <div className="match__box mb__30">
                     <span className="title">Match Result</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Qatar 2.38</Link>
-                      <Link href="URL:void(0)">X 3.25</Link>
-                      <Link href="URL:void(0)">Ecuador 2.80</Link>
+                      <Link href="">Qatar 2.38</Link>
+                      <Link href="">X 3.25</Link>
+                      <Link href="">Ecuador 2.80</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">0 12.00</Link>
-                      <Link href="URL:void(0)">1 4.33</Link>
-                      <Link href="URL:void(0)">2 3.20</Link>
+                      <Link href="">0 12.00</Link>
+                      <Link href="">1 4.33</Link>
+                      <Link href="">2 3.20</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3 3.40</Link>
-                      <Link href="URL:void(0)">4 5.00</Link>
-                      <Link href="URL:void(0)"></Link>
+                      <Link href="">3 3.40</Link>
+                      <Link href="">4 5.00</Link>
+                      <Link href=""></Link>
                     </div>
                   </div>
                   <div className="match__box">
@@ -185,19 +185,19 @@ const TimeTableTab = ({ id }) => {
                       Match Result and Both Teams to Score
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win and both teams to score</span>
                         <span className="poin">6.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win to nil</span>
                         <span className="poin">3.75</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>
                           Both teams to score and the match to end in a draw
                         </span>
@@ -205,19 +205,19 @@ const TimeTableTab = ({ id }) => {
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Both teams not to score</span>
                         <span className="poin">10.00</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win and both teams to score</span>
                         <span className="poin">7.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win to nil</span>
                         <span className="poin">4.33</span>
                       </Link>
@@ -232,50 +232,50 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Correct Score</span>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1</Link>
-                      <Link href="URL:void(0)">2</Link>
-                      <Link href="URL:void(0)">3</Link>
+                      <Link href="">1</Link>
+                      <Link href="">2</Link>
+                      <Link href="">3</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1-0 7.00</Link>
-                      <Link href="URL:void(0)">0-0 10.00</Link>
-                      <Link href="URL:void(0)">0-1 8.00</Link>
+                      <Link href="">1-0 7.00</Link>
+                      <Link href="">0-0 10.00</Link>
+                      <Link href="">0-1 8.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-0 11.00</Link>
-                      <Link href="URL:void(0)">1-1 6.00</Link>
-                      <Link href="URL:void(0)">0-2 13.00</Link>
+                      <Link href="">2-0 11.00</Link>
+                      <Link href="">1-1 6.00</Link>
+                      <Link href="">0-2 13.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-1 9.00</Link>
-                      <Link href="URL:void(0)">1-2 10.00</Link>
-                      <Link href="URL:void(0)">2-2 15.00</Link>
+                      <Link href="">2-1 9.00</Link>
+                      <Link href="">1-2 10.00</Link>
+                      <Link href="">2-2 15.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">3-0 26.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">0-3 34.00</Link>
+                      <Link href="">3-0 26.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">0-3 34.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3-1 21.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">1-3 26.00</Link>
+                      <Link href="">3-1 21.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">1-3 26.00</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Double Chance</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador or X 1.33</Link>
-                      <Link href="URL:void(0)">X or Senegal 1.44</Link>
-                      <Link href="URL:void(0)">Ecuador or Senegal 1.25</Link>
+                      <Link href="">Ecuador or X 1.33</Link>
+                      <Link href="">X or Senegal 1.44</Link>
+                      <Link href="">Ecuador or Senegal 1.25</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
@@ -283,19 +283,19 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">0.5</Link>
-                      <Link href="URL:void(0)">1.01</Link>
-                      <Link href="URL:void(0)">12.00</Link>
+                      <Link href="">0.5</Link>
+                      <Link href="">1.01</Link>
+                      <Link href="">12.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">1.5</Link>
-                      <Link href="URL:void(0)">1.29</Link>
-                      <Link href="URL:void(0)">3.25</Link>
+                      <Link href="">1.5</Link>
+                      <Link href="">1.29</Link>
+                      <Link href="">3.25</Link>
                     </div>
                   </div>
                 </div>
@@ -312,7 +312,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>Ecuador - Senegal</span>
-            <Link href="URL:void(0)">Bets closing in 3:08</Link>
+            <Link href="">Bets closing in 3:08</Link>
           </div>
           <div className="ecuador__match__fixing">
             <div className="equador__head">
@@ -325,23 +325,23 @@ const TimeTableTab = ({ id }) => {
                   <div className="match__box mb__30">
                     <span className="title">Match Result</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador 2.40</Link>
-                      <Link href="URL:void(0)">X 3.20</Link>
-                      <Link href="URL:void(0)">Senegal 2.75</Link>
+                      <Link href="">Ecuador 2.40</Link>
+                      <Link href="">X 3.20</Link>
+                      <Link href="">Senegal 2.75</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador 2.40</Link>
-                      <Link href="URL:void(0)">4 6.00</Link>
-                      <Link href="URL:void(0)"></Link>
+                      <Link href="">Ecuador 2.40</Link>
+                      <Link href="">4 6.00</Link>
+                      <Link href=""></Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3 3.75</Link>
+                      <Link href="">3 3.75</Link>
                     </div>
                   </div>
                   <div className="match__box">
@@ -349,19 +349,19 @@ const TimeTableTab = ({ id }) => {
                       Match Result and Both Teams to Score
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win and both teams to score</span>
                         <span className="poin">6.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win to nil</span>
                         <span className="poin">3.75</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>
                           Both teams to score and the match to end in a draw
                         </span>
@@ -369,19 +369,19 @@ const TimeTableTab = ({ id }) => {
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Both teams not to score</span>
                         <span className="poin">10.00</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win and both teams to score</span>
                         <span className="poin">7.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win to nil</span>
                         <span className="poin">4.33</span>
                       </Link>
@@ -396,68 +396,68 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Correct Score</span>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1</Link>
-                      <Link href="URL:void(0)">2</Link>
-                      <Link href="URL:void(0)">3</Link>
+                      <Link href="">1</Link>
+                      <Link href="">2</Link>
+                      <Link href="">3</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1-0 7.00</Link>
-                      <Link href="URL:void(0)">0-0 10.00</Link>
-                      <Link href="URL:void(0)">0-1 8.00</Link>
+                      <Link href="">1-0 7.00</Link>
+                      <Link href="">0-0 10.00</Link>
+                      <Link href="">0-1 8.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-0 11.00</Link>
-                      <Link href="URL:void(0)">1-1 6.00</Link>
-                      <Link href="URL:void(0)">0-2 13.00</Link>
+                      <Link href="">2-0 11.00</Link>
+                      <Link href="">1-1 6.00</Link>
+                      <Link href="">0-2 13.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-1 9.00</Link>
-                      <Link href="URL:void(0)">1-2 10.00</Link>
-                      <Link href="URL:void(0)">2-2 15.00</Link>
+                      <Link href="">2-1 9.00</Link>
+                      <Link href="">1-2 10.00</Link>
+                      <Link href="">2-2 15.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">3-0 26.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">0-3 34.00</Link>
+                      <Link href="">3-0 26.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">0-3 34.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3-1 21.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">1-3 26.00</Link>
+                      <Link href="">3-1 21.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">1-3 26.00</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Double Chance</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador or X 1.33</Link>
-                      <Link href="URL:void(0)">X or Senegal 1.44</Link>
-                      <Link href="URL:void(0)">Ecuador or Senegal 1.25</Link>
+                      <Link href="">Ecuador or X 1.33</Link>
+                      <Link href="">X or Senegal 1.44</Link>
+                      <Link href="">Ecuador or Senegal 1.25</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Half Time/Full Time</span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)">Ecuador / Ecuador 3.50</Link>
-                      <Link href="URL:void(0)">Ecuador / Draw 15.00</Link>
-                      <Link href="URL:void(0)">Ecuador/Senegal 67.00</Link>
+                      <Link href="">Ecuador / Ecuador 3.50</Link>
+                      <Link href="">Ecuador / Draw 15.00</Link>
+                      <Link href="">Ecuador/Senegal 67.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">Draw / Ecuador 6.50</Link>
-                      <Link href="URL:void(0)">Draw / Senegal 7.00</Link>
-                      <Link href="URL:void(0)">Draw / Draw 4.50</Link>
+                      <Link href="">Draw / Ecuador 6.50</Link>
+                      <Link href="">Draw / Senegal 7.00</Link>
+                      <Link href="">Draw / Draw 4.50</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Senegal / Ecuador 51.00</Link>
-                      <Link href="URL:void(0)">Senegal / Draw 15.00</Link>
-                      <Link href="URL:void(0)">Senegal / Senegal 4.00</Link>
+                      <Link href="">Senegal / Ecuador 51.00</Link>
+                      <Link href="">Senegal / Draw 15.00</Link>
+                      <Link href="">Senegal / Senegal 4.00</Link>
                     </div>
                   </div>
                 </div>
@@ -474,7 +474,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>Portugal-Uruguay</span>
-            <Link href="URL:void(0)">Bets closed</Link>
+            <Link href="">Bets closed</Link>
           </div>
           <div className="ecuador__match__fixing">
             <div className="equador__head">
@@ -487,22 +487,22 @@ const TimeTableTab = ({ id }) => {
                   <div className="match__box mb__30">
                     <span className="title">Match Result</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Qatar 2.38</Link>
-                      <Link href="URL:void(0)">X 3.25</Link>
-                      <Link href="URL:void(0)">Ecuador 2.80</Link>
+                      <Link href="">Qatar 2.38</Link>
+                      <Link href="">X 3.25</Link>
+                      <Link href="">Ecuador 2.80</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">0 12.00</Link>
-                      <Link href="URL:void(0)">1 4.33</Link>
-                      <Link href="URL:void(0)">2 3.20</Link>
+                      <Link href="">0 12.00</Link>
+                      <Link href="">1 4.33</Link>
+                      <Link href="">2 3.20</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3 3.40</Link>
-                      <Link href="URL:void(0)">4 5.00</Link>
-                      <Link href="URL:void(0)"></Link>
+                      <Link href="">3 3.40</Link>
+                      <Link href="">4 5.00</Link>
+                      <Link href=""></Link>
                     </div>
                   </div>
                   <div className="match__box">
@@ -510,19 +510,19 @@ const TimeTableTab = ({ id }) => {
                       Match Result and Both Teams to Score
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win and both teams to score</span>
                         <span className="poin">6.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win to nil</span>
                         <span className="poin">3.75</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>
                           Both teams to score and the match to end in a draw
                         </span>
@@ -530,19 +530,19 @@ const TimeTableTab = ({ id }) => {
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Both teams not to score</span>
                         <span className="poin">10.00</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win and both teams to score</span>
                         <span className="poin">7.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win to nil</span>
                         <span className="poin">4.33</span>
                       </Link>
@@ -557,50 +557,50 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Correct Score</span>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1</Link>
-                      <Link href="URL:void(0)">2</Link>
-                      <Link href="URL:void(0)">3</Link>
+                      <Link href="">1</Link>
+                      <Link href="">2</Link>
+                      <Link href="">3</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1-0 7.00</Link>
-                      <Link href="URL:void(0)">0-0 10.00</Link>
-                      <Link href="URL:void(0)">0-1 8.00</Link>
+                      <Link href="">1-0 7.00</Link>
+                      <Link href="">0-0 10.00</Link>
+                      <Link href="">0-1 8.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-0 11.00</Link>
-                      <Link href="URL:void(0)">1-1 6.00</Link>
-                      <Link href="URL:void(0)">0-2 13.00</Link>
+                      <Link href="">2-0 11.00</Link>
+                      <Link href="">1-1 6.00</Link>
+                      <Link href="">0-2 13.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-1 9.00</Link>
-                      <Link href="URL:void(0)">1-2 10.00</Link>
-                      <Link href="URL:void(0)">2-2 15.00</Link>
+                      <Link href="">2-1 9.00</Link>
+                      <Link href="">1-2 10.00</Link>
+                      <Link href="">2-2 15.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">3-0 26.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">0-3 34.00</Link>
+                      <Link href="">3-0 26.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">0-3 34.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3-1 21.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">1-3 26.00</Link>
+                      <Link href="">3-1 21.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">1-3 26.00</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Double Chance</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador or X 1.33</Link>
-                      <Link href="URL:void(0)">X or Senegal 1.44</Link>
-                      <Link href="URL:void(0)">Ecuador or Senegal 1.25</Link>
+                      <Link href="">Ecuador or X 1.33</Link>
+                      <Link href="">X or Senegal 1.44</Link>
+                      <Link href="">Ecuador or Senegal 1.25</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
@@ -608,19 +608,19 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">0.5</Link>
-                      <Link href="URL:void(0)">1.01</Link>
-                      <Link href="URL:void(0)">12.00</Link>
+                      <Link href="">0.5</Link>
+                      <Link href="">1.01</Link>
+                      <Link href="">12.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">1.5</Link>
-                      <Link href="URL:void(0)">1.29</Link>
-                      <Link href="URL:void(0)">3.25</Link>
+                      <Link href="">1.5</Link>
+                      <Link href="">1.29</Link>
+                      <Link href="">3.25</Link>
                     </div>
                   </div>
                 </div>
@@ -637,7 +637,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>Portugal-Uruguay</span>
-            <Link href="URL:void(0)">Bets closed</Link>
+            <Link href="">Bets closed</Link>
           </div>
           <div className="ecuador__match__fixing">
             <div className="equador__head">
@@ -650,22 +650,22 @@ const TimeTableTab = ({ id }) => {
                   <div className="match__box mb__30">
                     <span className="title">Match Result</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Qatar 2.38</Link>
-                      <Link href="URL:void(0)">X 3.25</Link>
-                      <Link href="URL:void(0)">Ecuador 2.80</Link>
+                      <Link href="">Qatar 2.38</Link>
+                      <Link href="">X 3.25</Link>
+                      <Link href="">Ecuador 2.80</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">0 12.00</Link>
-                      <Link href="URL:void(0)">1 4.33</Link>
-                      <Link href="URL:void(0)">2 3.20</Link>
+                      <Link href="">0 12.00</Link>
+                      <Link href="">1 4.33</Link>
+                      <Link href="">2 3.20</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3 3.40</Link>
-                      <Link href="URL:void(0)">4 5.00</Link>
-                      <Link href="URL:void(0)"></Link>
+                      <Link href="">3 3.40</Link>
+                      <Link href="">4 5.00</Link>
+                      <Link href=""></Link>
                     </div>
                   </div>
                   <div className="match__box">
@@ -673,19 +673,19 @@ const TimeTableTab = ({ id }) => {
                       Match Result and Both Teams to Score
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win and both teams to score</span>
                         <span className="poin">6.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win to nil</span>
                         <span className="poin">3.75</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>
                           Both teams to score and the match to end in a draw
                         </span>
@@ -693,19 +693,19 @@ const TimeTableTab = ({ id }) => {
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Both teams not to score</span>
                         <span className="poin">10.00</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win and both teams to score</span>
                         <span className="poin">7.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win to nil</span>
                         <span className="poin">4.33</span>
                       </Link>
@@ -720,50 +720,50 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Correct Score</span>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1</Link>
-                      <Link href="URL:void(0)">2</Link>
-                      <Link href="URL:void(0)">3</Link>
+                      <Link href="">1</Link>
+                      <Link href="">2</Link>
+                      <Link href="">3</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1-0 7.00</Link>
-                      <Link href="URL:void(0)">0-0 10.00</Link>
-                      <Link href="URL:void(0)">0-1 8.00</Link>
+                      <Link href="">1-0 7.00</Link>
+                      <Link href="">0-0 10.00</Link>
+                      <Link href="">0-1 8.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-0 11.00</Link>
-                      <Link href="URL:void(0)">1-1 6.00</Link>
-                      <Link href="URL:void(0)">0-2 13.00</Link>
+                      <Link href="">2-0 11.00</Link>
+                      <Link href="">1-1 6.00</Link>
+                      <Link href="">0-2 13.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-1 9.00</Link>
-                      <Link href="URL:void(0)">1-2 10.00</Link>
-                      <Link href="URL:void(0)">2-2 15.00</Link>
+                      <Link href="">2-1 9.00</Link>
+                      <Link href="">1-2 10.00</Link>
+                      <Link href="">2-2 15.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">3-0 26.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">0-3 34.00</Link>
+                      <Link href="">3-0 26.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">0-3 34.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3-1 21.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">1-3 26.00</Link>
+                      <Link href="">3-1 21.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">1-3 26.00</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Double Chance</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador or X 1.33</Link>
-                      <Link href="URL:void(0)">X or Senegal 1.44</Link>
-                      <Link href="URL:void(0)">Ecuador or Senegal 1.25</Link>
+                      <Link href="">Ecuador or X 1.33</Link>
+                      <Link href="">X or Senegal 1.44</Link>
+                      <Link href="">Ecuador or Senegal 1.25</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
@@ -771,19 +771,19 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">0.5</Link>
-                      <Link href="URL:void(0)">1.01</Link>
-                      <Link href="URL:void(0)">12.00</Link>
+                      <Link href="">0.5</Link>
+                      <Link href="">1.01</Link>
+                      <Link href="">12.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">1.5</Link>
-                      <Link href="URL:void(0)">1.29</Link>
-                      <Link href="URL:void(0)">3.25</Link>
+                      <Link href="">1.5</Link>
+                      <Link href="">1.29</Link>
+                      <Link href="">3.25</Link>
                     </div>
                   </div>
                 </div>
@@ -800,7 +800,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>Portugal-Uruguay</span>
-            <Link href="URL:void(0)">Bets closed</Link>
+            <Link href="">Bets closed</Link>
           </div>
           <div className="ecuador__match__fixing">
             <div className="equador__head">
@@ -813,22 +813,22 @@ const TimeTableTab = ({ id }) => {
                   <div className="match__box mb__30">
                     <span className="title">Match Result</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Qatar 2.38</Link>
-                      <Link href="URL:void(0)">X 3.25</Link>
-                      <Link href="URL:void(0)">Ecuador 2.80</Link>
+                      <Link href="">Qatar 2.38</Link>
+                      <Link href="">X 3.25</Link>
+                      <Link href="">Ecuador 2.80</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">0 12.00</Link>
-                      <Link href="URL:void(0)">1 4.33</Link>
-                      <Link href="URL:void(0)">2 3.20</Link>
+                      <Link href="">0 12.00</Link>
+                      <Link href="">1 4.33</Link>
+                      <Link href="">2 3.20</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3 3.40</Link>
-                      <Link href="URL:void(0)">4 5.00</Link>
-                      <Link href="URL:void(0)"></Link>
+                      <Link href="">3 3.40</Link>
+                      <Link href="">4 5.00</Link>
+                      <Link href=""></Link>
                     </div>
                   </div>
                   <div className="match__box">
@@ -836,19 +836,19 @@ const TimeTableTab = ({ id }) => {
                       Match Result and Both Teams to Score
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win and both teams to score</span>
                         <span className="poin">6.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win to nil</span>
                         <span className="poin">3.75</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>
                           Both teams to score and the match to end in a draw
                         </span>
@@ -856,19 +856,19 @@ const TimeTableTab = ({ id }) => {
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Both teams not to score</span>
                         <span className="poin">10.00</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win and both teams to score</span>
                         <span className="poin">7.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win to nil</span>
                         <span className="poin">4.33</span>
                       </Link>
@@ -883,50 +883,50 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Correct Score</span>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1</Link>
-                      <Link href="URL:void(0)">2</Link>
-                      <Link href="URL:void(0)">3</Link>
+                      <Link href="">1</Link>
+                      <Link href="">2</Link>
+                      <Link href="">3</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1-0 7.00</Link>
-                      <Link href="URL:void(0)">0-0 10.00</Link>
-                      <Link href="URL:void(0)">0-1 8.00</Link>
+                      <Link href="">1-0 7.00</Link>
+                      <Link href="">0-0 10.00</Link>
+                      <Link href="">0-1 8.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-0 11.00</Link>
-                      <Link href="URL:void(0)">1-1 6.00</Link>
-                      <Link href="URL:void(0)">0-2 13.00</Link>
+                      <Link href="">2-0 11.00</Link>
+                      <Link href="">1-1 6.00</Link>
+                      <Link href="">0-2 13.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-1 9.00</Link>
-                      <Link href="URL:void(0)">1-2 10.00</Link>
-                      <Link href="URL:void(0)">2-2 15.00</Link>
+                      <Link href="">2-1 9.00</Link>
+                      <Link href="">1-2 10.00</Link>
+                      <Link href="">2-2 15.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">3-0 26.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">0-3 34.00</Link>
+                      <Link href="">3-0 26.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">0-3 34.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3-1 21.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">1-3 26.00</Link>
+                      <Link href="">3-1 21.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">1-3 26.00</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Double Chance</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador or X 1.33</Link>
-                      <Link href="URL:void(0)">X or Senegal 1.44</Link>
-                      <Link href="URL:void(0)">Ecuador or Senegal 1.25</Link>
+                      <Link href="">Ecuador or X 1.33</Link>
+                      <Link href="">X or Senegal 1.44</Link>
+                      <Link href="">Ecuador or Senegal 1.25</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
@@ -934,19 +934,19 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">0.5</Link>
-                      <Link href="URL:void(0)">1.01</Link>
-                      <Link href="URL:void(0)">12.00</Link>
+                      <Link href="">0.5</Link>
+                      <Link href="">1.01</Link>
+                      <Link href="">12.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">1.5</Link>
-                      <Link href="URL:void(0)">1.29</Link>
-                      <Link href="URL:void(0)">3.25</Link>
+                      <Link href="">1.5</Link>
+                      <Link href="">1.29</Link>
+                      <Link href="">3.25</Link>
                     </div>
                   </div>
                 </div>
@@ -963,7 +963,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>Portugal-Uruguay</span>
-            <Link href="URL:void(0)">Bets closed</Link>
+            <Link href="">Bets closed</Link>
           </div>
           <div className="ecuador__match__fixing">
             <div className="equador__head">
@@ -976,22 +976,22 @@ const TimeTableTab = ({ id }) => {
                   <div className="match__box mb__30">
                     <span className="title">Match Result</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Qatar 2.38</Link>
-                      <Link href="URL:void(0)">X 3.25</Link>
-                      <Link href="URL:void(0)">Ecuador 2.80</Link>
+                      <Link href="">Qatar 2.38</Link>
+                      <Link href="">X 3.25</Link>
+                      <Link href="">Ecuador 2.80</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">0 12.00</Link>
-                      <Link href="URL:void(0)">1 4.33</Link>
-                      <Link href="URL:void(0)">2 3.20</Link>
+                      <Link href="">0 12.00</Link>
+                      <Link href="">1 4.33</Link>
+                      <Link href="">2 3.20</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3 3.40</Link>
-                      <Link href="URL:void(0)">4 5.00</Link>
-                      <Link href="URL:void(0)"></Link>
+                      <Link href="">3 3.40</Link>
+                      <Link href="">4 5.00</Link>
+                      <Link href=""></Link>
                     </div>
                   </div>
                   <div className="match__box">
@@ -999,19 +999,19 @@ const TimeTableTab = ({ id }) => {
                       Match Result and Both Teams to Score
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win and both teams to score</span>
                         <span className="poin">6.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win to nil</span>
                         <span className="poin">3.75</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>
                           Both teams to score and the match to end in a draw
                         </span>
@@ -1019,19 +1019,19 @@ const TimeTableTab = ({ id }) => {
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Both teams not to score</span>
                         <span className="poin">10.00</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win and both teams to score</span>
                         <span className="poin">7.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win to nil</span>
                         <span className="poin">4.33</span>
                       </Link>
@@ -1046,50 +1046,50 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Correct Score</span>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1</Link>
-                      <Link href="URL:void(0)">2</Link>
-                      <Link href="URL:void(0)">3</Link>
+                      <Link href="">1</Link>
+                      <Link href="">2</Link>
+                      <Link href="">3</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1-0 7.00</Link>
-                      <Link href="URL:void(0)">0-0 10.00</Link>
-                      <Link href="URL:void(0)">0-1 8.00</Link>
+                      <Link href="">1-0 7.00</Link>
+                      <Link href="">0-0 10.00</Link>
+                      <Link href="">0-1 8.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-0 11.00</Link>
-                      <Link href="URL:void(0)">1-1 6.00</Link>
-                      <Link href="URL:void(0)">0-2 13.00</Link>
+                      <Link href="">2-0 11.00</Link>
+                      <Link href="">1-1 6.00</Link>
+                      <Link href="">0-2 13.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-1 9.00</Link>
-                      <Link href="URL:void(0)">1-2 10.00</Link>
-                      <Link href="URL:void(0)">2-2 15.00</Link>
+                      <Link href="">2-1 9.00</Link>
+                      <Link href="">1-2 10.00</Link>
+                      <Link href="">2-2 15.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">3-0 26.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">0-3 34.00</Link>
+                      <Link href="">3-0 26.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">0-3 34.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3-1 21.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">1-3 26.00</Link>
+                      <Link href="">3-1 21.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">1-3 26.00</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Double Chance</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador or X 1.33</Link>
-                      <Link href="URL:void(0)">X or Senegal 1.44</Link>
-                      <Link href="URL:void(0)">Ecuador or Senegal 1.25</Link>
+                      <Link href="">Ecuador or X 1.33</Link>
+                      <Link href="">X or Senegal 1.44</Link>
+                      <Link href="">Ecuador or Senegal 1.25</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
@@ -1097,19 +1097,19 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">0.5</Link>
-                      <Link href="URL:void(0)">1.01</Link>
-                      <Link href="URL:void(0)">12.00</Link>
+                      <Link href="">0.5</Link>
+                      <Link href="">1.01</Link>
+                      <Link href="">12.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">1.5</Link>
-                      <Link href="URL:void(0)">1.29</Link>
-                      <Link href="URL:void(0)">3.25</Link>
+                      <Link href="">1.5</Link>
+                      <Link href="">1.29</Link>
+                      <Link href="">3.25</Link>
                     </div>
                   </div>
                 </div>
@@ -1126,7 +1126,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>Portugal-Uruguay</span>
-            <Link href="URL:void(0)">Bets closed</Link>
+            <Link href="">Bets closed</Link>
           </div>
           <div className="ecuador__match__fixing">
             <div className="equador__head">
@@ -1139,22 +1139,22 @@ const TimeTableTab = ({ id }) => {
                   <div className="match__box mb__30">
                     <span className="title">Match Result</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Qatar 2.38</Link>
-                      <Link href="URL:void(0)">X 3.25</Link>
-                      <Link href="URL:void(0)">Ecuador 2.80</Link>
+                      <Link href="">Qatar 2.38</Link>
+                      <Link href="">X 3.25</Link>
+                      <Link href="">Ecuador 2.80</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">0 12.00</Link>
-                      <Link href="URL:void(0)">1 4.33</Link>
-                      <Link href="URL:void(0)">2 3.20</Link>
+                      <Link href="">0 12.00</Link>
+                      <Link href="">1 4.33</Link>
+                      <Link href="">2 3.20</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3 3.40</Link>
-                      <Link href="URL:void(0)">4 5.00</Link>
-                      <Link href="URL:void(0)"></Link>
+                      <Link href="">3 3.40</Link>
+                      <Link href="">4 5.00</Link>
+                      <Link href=""></Link>
                     </div>
                   </div>
                   <div className="match__box">
@@ -1162,19 +1162,19 @@ const TimeTableTab = ({ id }) => {
                       Match Result and Both Teams to Score
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win and both teams to score</span>
                         <span className="poin">6.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win to nil</span>
                         <span className="poin">3.75</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>
                           Both teams to score and the match to end in a draw
                         </span>
@@ -1182,19 +1182,19 @@ const TimeTableTab = ({ id }) => {
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Both teams not to score</span>
                         <span className="poin">10.00</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win and both teams to score</span>
                         <span className="poin">7.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win to nil</span>
                         <span className="poin">4.33</span>
                       </Link>
@@ -1209,50 +1209,50 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Correct Score</span>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1</Link>
-                      <Link href="URL:void(0)">2</Link>
-                      <Link href="URL:void(0)">3</Link>
+                      <Link href="">1</Link>
+                      <Link href="">2</Link>
+                      <Link href="">3</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1-0 7.00</Link>
-                      <Link href="URL:void(0)">0-0 10.00</Link>
-                      <Link href="URL:void(0)">0-1 8.00</Link>
+                      <Link href="">1-0 7.00</Link>
+                      <Link href="">0-0 10.00</Link>
+                      <Link href="">0-1 8.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-0 11.00</Link>
-                      <Link href="URL:void(0)">1-1 6.00</Link>
-                      <Link href="URL:void(0)">0-2 13.00</Link>
+                      <Link href="">2-0 11.00</Link>
+                      <Link href="">1-1 6.00</Link>
+                      <Link href="">0-2 13.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-1 9.00</Link>
-                      <Link href="URL:void(0)">1-2 10.00</Link>
-                      <Link href="URL:void(0)">2-2 15.00</Link>
+                      <Link href="">2-1 9.00</Link>
+                      <Link href="">1-2 10.00</Link>
+                      <Link href="">2-2 15.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">3-0 26.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">0-3 34.00</Link>
+                      <Link href="">3-0 26.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">0-3 34.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3-1 21.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">1-3 26.00</Link>
+                      <Link href="">3-1 21.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">1-3 26.00</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Double Chance</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador or X 1.33</Link>
-                      <Link href="URL:void(0)">X or Senegal 1.44</Link>
-                      <Link href="URL:void(0)">Ecuador or Senegal 1.25</Link>
+                      <Link href="">Ecuador or X 1.33</Link>
+                      <Link href="">X or Senegal 1.44</Link>
+                      <Link href="">Ecuador or Senegal 1.25</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
@@ -1260,19 +1260,19 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">0.5</Link>
-                      <Link href="URL:void(0)">1.01</Link>
-                      <Link href="URL:void(0)">12.00</Link>
+                      <Link href="">0.5</Link>
+                      <Link href="">1.01</Link>
+                      <Link href="">12.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">1.5</Link>
-                      <Link href="URL:void(0)">1.29</Link>
-                      <Link href="URL:void(0)">3.25</Link>
+                      <Link href="">1.5</Link>
+                      <Link href="">1.29</Link>
+                      <Link href="">3.25</Link>
                     </div>
                   </div>
                 </div>
@@ -1289,7 +1289,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>Portugal-Uruguay</span>
-            <Link href="URL:void(0)">Bets closed</Link>
+            <Link href="">Bets closed</Link>
           </div>
           <div className="ecuador__match__fixing">
             <div className="equador__head">
@@ -1302,22 +1302,22 @@ const TimeTableTab = ({ id }) => {
                   <div className="match__box mb__30">
                     <span className="title">Match Result</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Qatar 2.38</Link>
-                      <Link href="URL:void(0)">X 3.25</Link>
-                      <Link href="URL:void(0)">Ecuador 2.80</Link>
+                      <Link href="">Qatar 2.38</Link>
+                      <Link href="">X 3.25</Link>
+                      <Link href="">Ecuador 2.80</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">0 12.00</Link>
-                      <Link href="URL:void(0)">1 4.33</Link>
-                      <Link href="URL:void(0)">2 3.20</Link>
+                      <Link href="">0 12.00</Link>
+                      <Link href="">1 4.33</Link>
+                      <Link href="">2 3.20</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3 3.40</Link>
-                      <Link href="URL:void(0)">4 5.00</Link>
-                      <Link href="URL:void(0)"></Link>
+                      <Link href="">3 3.40</Link>
+                      <Link href="">4 5.00</Link>
+                      <Link href=""></Link>
                     </div>
                   </div>
                   <div className="match__box">
@@ -1325,19 +1325,19 @@ const TimeTableTab = ({ id }) => {
                       Match Result and Both Teams to Score
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win and both teams to score</span>
                         <span className="poin">6.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win to nil</span>
                         <span className="poin">3.75</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>
                           Both teams to score and the match to end in a draw
                         </span>
@@ -1345,19 +1345,19 @@ const TimeTableTab = ({ id }) => {
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Both teams not to score</span>
                         <span className="poin">10.00</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win and both teams to score</span>
                         <span className="poin">7.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win to nil</span>
                         <span className="poin">4.33</span>
                       </Link>
@@ -1372,50 +1372,50 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Correct Score</span>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1</Link>
-                      <Link href="URL:void(0)">2</Link>
-                      <Link href="URL:void(0)">3</Link>
+                      <Link href="">1</Link>
+                      <Link href="">2</Link>
+                      <Link href="">3</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1-0 7.00</Link>
-                      <Link href="URL:void(0)">0-0 10.00</Link>
-                      <Link href="URL:void(0)">0-1 8.00</Link>
+                      <Link href="">1-0 7.00</Link>
+                      <Link href="">0-0 10.00</Link>
+                      <Link href="">0-1 8.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-0 11.00</Link>
-                      <Link href="URL:void(0)">1-1 6.00</Link>
-                      <Link href="URL:void(0)">0-2 13.00</Link>
+                      <Link href="">2-0 11.00</Link>
+                      <Link href="">1-1 6.00</Link>
+                      <Link href="">0-2 13.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-1 9.00</Link>
-                      <Link href="URL:void(0)">1-2 10.00</Link>
-                      <Link href="URL:void(0)">2-2 15.00</Link>
+                      <Link href="">2-1 9.00</Link>
+                      <Link href="">1-2 10.00</Link>
+                      <Link href="">2-2 15.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">3-0 26.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">0-3 34.00</Link>
+                      <Link href="">3-0 26.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">0-3 34.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3-1 21.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">1-3 26.00</Link>
+                      <Link href="">3-1 21.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">1-3 26.00</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Double Chance</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador or X 1.33</Link>
-                      <Link href="URL:void(0)">X or Senegal 1.44</Link>
-                      <Link href="URL:void(0)">Ecuador or Senegal 1.25</Link>
+                      <Link href="">Ecuador or X 1.33</Link>
+                      <Link href="">X or Senegal 1.44</Link>
+                      <Link href="">Ecuador or Senegal 1.25</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
@@ -1423,19 +1423,19 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">0.5</Link>
-                      <Link href="URL:void(0)">1.01</Link>
-                      <Link href="URL:void(0)">12.00</Link>
+                      <Link href="">0.5</Link>
+                      <Link href="">1.01</Link>
+                      <Link href="">12.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">1.5</Link>
-                      <Link href="URL:void(0)">1.29</Link>
-                      <Link href="URL:void(0)">3.25</Link>
+                      <Link href="">1.5</Link>
+                      <Link href="">1.29</Link>
+                      <Link href="">3.25</Link>
                     </div>
                   </div>
                 </div>
@@ -1452,7 +1452,7 @@ const TimeTableTab = ({ id }) => {
         >
           <div className="world__point__text">
             <span>Portugal-Uruguay</span>
-            <Link href="URL:void(0)">Bets closed</Link>
+            <Link href="">Bets closed</Link>
           </div>
           <div className="ecuador__match__fixing">
             <div className="equador__head">
@@ -1465,22 +1465,22 @@ const TimeTableTab = ({ id }) => {
                   <div className="match__box mb__30">
                     <span className="title">Match Result</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Qatar 2.38</Link>
-                      <Link href="URL:void(0)">X 3.25</Link>
-                      <Link href="URL:void(0)">Ecuador 2.80</Link>
+                      <Link href="">Qatar 2.38</Link>
+                      <Link href="">X 3.25</Link>
+                      <Link href="">Ecuador 2.80</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Total Goals</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">0 12.00</Link>
-                      <Link href="URL:void(0)">1 4.33</Link>
-                      <Link href="URL:void(0)">2 3.20</Link>
+                      <Link href="">0 12.00</Link>
+                      <Link href="">1 4.33</Link>
+                      <Link href="">2 3.20</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3 3.40</Link>
-                      <Link href="URL:void(0)">4 5.00</Link>
-                      <Link href="URL:void(0)"></Link>
+                      <Link href="">3 3.40</Link>
+                      <Link href="">4 5.00</Link>
+                      <Link href=""></Link>
                     </div>
                   </div>
                   <div className="match__box">
@@ -1488,19 +1488,19 @@ const TimeTableTab = ({ id }) => {
                       Match Result and Both Teams to Score
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win and both teams to score</span>
                         <span className="poin">6.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Ecuador to win to nil</span>
                         <span className="poin">3.75</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>
                           Both teams to score and the match to end in a draw
                         </span>
@@ -1508,19 +1508,19 @@ const TimeTableTab = ({ id }) => {
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Both teams not to score</span>
                         <span className="poin">10.00</span>
                       </Link>
                     </div>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win and both teams to score</span>
                         <span className="poin">7.50</span>
                       </Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)" className="d__box">
+                      <Link href="" className="d__box">
                         <span>Senegal to win to nil</span>
                         <span className="poin">4.33</span>
                       </Link>
@@ -1535,50 +1535,50 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title mb__1">Correct Score</span>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1</Link>
-                      <Link href="URL:void(0)">2</Link>
-                      <Link href="URL:void(0)">3</Link>
+                      <Link href="">1</Link>
+                      <Link href="">2</Link>
+                      <Link href="">3</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">1-0 7.00</Link>
-                      <Link href="URL:void(0)">0-0 10.00</Link>
-                      <Link href="URL:void(0)">0-1 8.00</Link>
+                      <Link href="">1-0 7.00</Link>
+                      <Link href="">0-0 10.00</Link>
+                      <Link href="">0-1 8.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-0 11.00</Link>
-                      <Link href="URL:void(0)">1-1 6.00</Link>
-                      <Link href="URL:void(0)">0-2 13.00</Link>
+                      <Link href="">2-0 11.00</Link>
+                      <Link href="">1-1 6.00</Link>
+                      <Link href="">0-2 13.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">2-1 9.00</Link>
-                      <Link href="URL:void(0)">1-2 10.00</Link>
-                      <Link href="URL:void(0)">2-2 15.00</Link>
+                      <Link href="">2-1 9.00</Link>
+                      <Link href="">1-2 10.00</Link>
+                      <Link href="">2-2 15.00</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">3-0 26.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">0-3 34.00</Link>
+                      <Link href="">3-0 26.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">0-3 34.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">3-1 21.00</Link>
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">1-3 26.00</Link>
+                      <Link href="">3-1 21.00</Link>
+                      <Link href=""></Link>
+                      <Link href="">1-3 26.00</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
                     <span className="title">Double Chance</span>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">Ecuador or X 1.33</Link>
-                      <Link href="URL:void(0)">X or Senegal 1.44</Link>
-                      <Link href="URL:void(0)">Ecuador or Senegal 1.25</Link>
+                      <Link href="">Ecuador or X 1.33</Link>
+                      <Link href="">X or Senegal 1.44</Link>
+                      <Link href="">Ecuador or Senegal 1.25</Link>
                     </div>
                   </div>
                   <div className="match__box mb__30">
@@ -1586,19 +1586,19 @@ const TimeTableTab = ({ id }) => {
                       Over/Under - Total Goals
                     </span>
                     <div className="devaided__box mb__1 ">
-                      <Link href="URL:void(0)"></Link>
-                      <Link href="URL:void(0)">Over</Link>
-                      <Link href="URL:void(0)">Under</Link>
+                      <Link href=""></Link>
+                      <Link href="">Over</Link>
+                      <Link href="">Under</Link>
                     </div>
                     <div className="devaided__box mb__1">
-                      <Link href="URL:void(0)">0.5</Link>
-                      <Link href="URL:void(0)">1.01</Link>
-                      <Link href="URL:void(0)">12.00</Link>
+                      <Link href="">0.5</Link>
+                      <Link href="">1.01</Link>
+                      <Link href="">12.00</Link>
                     </div>
                     <div className="devaided__box">
-                      <Link href="URL:void(0)">1.5</Link>
-                      <Link href="URL:void(0)">1.29</Link>
-                      <Link href="URL:void(0)">3.25</Link>
+                      <Link href="">1.5</Link>
+                      <Link href="">1.29</Link>
+                      <Link href="">3.25</Link>
                     </div>
                   </div>
                 </div>

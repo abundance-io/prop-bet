@@ -598,6 +598,29 @@
     }
   }
 }
+
+.tournament_list{
+  display: flex;
+  margin-top: 10px ;
+  margin-bottom: 10px;
+  // gap-x
+}
+
+.tournament_box{
+  cursor: pointer;
+  display:flex;
+  padding-top: 10px;
+  margin-left: 10px;
+  justify-content: center;
+  align-content: center;
+  width:150px;
+  height:70px;
+  border-width: 1px;
+  border-color: #09ff8d;
+  background-color: #283352;
+  border-style:solid;
+}
+
 .live__heightlight {
   background: var(--slidebox);
   border-radius: 10px;

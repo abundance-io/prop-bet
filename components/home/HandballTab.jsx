@@ -63,7 +63,7 @@ const HandballTab = () => {
                       <h6>Ferencvarosi TC</h6>
                       <span className="text">Valur Reykjavik</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 23:45</Link>
+                        <Link href="">Today / 23:45</Link>
                       </p>
                     </div>
                   </div>
@@ -91,14 +91,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         1.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         1.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -112,7 +112,7 @@ const HandballTab = () => {
                       <h6>Fuchse Berlin</h6>
                       <span className="text">Skanderborg Aarhus</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 23:45</Link>
+                        <Link href="">Today / 23:45</Link>
                       </p>
                     </div>
                   </div>
@@ -140,14 +140,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         1.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         1.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -161,7 +161,7 @@ const HandballTab = () => {
                       <h6>Pauc Handball</h6>
                       <span className="text">Ystads IF</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 23:45</Link>
+                        <Link href="">Today / 23:45</Link>
                       </p>
                     </div>
                   </div>
@@ -189,14 +189,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         31.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         31.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -210,7 +210,7 @@ const HandballTab = () => {
                       <h6>RK Nexe</h6>
                       <span className="text">Fraikin BM. Granollers</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 23:45</Link>
+                        <Link href="">Today / 23:45</Link>
                       </p>
                     </div>
                   </div>
@@ -238,14 +238,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         5.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         8.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -259,7 +259,7 @@ const HandballTab = () => {
                       <h6>HC Midtjylland</h6>
                       <span className="text">Mors-Thy Handbold</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 23:45</Link>
+                        <Link href="">Today / 23:45</Link>
                       </p>
                     </div>
                   </div>
@@ -287,14 +287,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -308,7 +308,7 @@ const HandballTab = () => {
                       <h6>Aguas Santas</h6>
                       <span className="text">HC Motor Zaporozhye</span>
                       <p>
-                        <Link href="URL:void(0)">Today / 23:45</Link>
+                        <Link href="">Today / 23:45</Link>
                       </p>
                     </div>
                   </div>
@@ -336,14 +336,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -357,7 +357,7 @@ const HandballTab = () => {
                       <h6>Tomorrow/ 01:45</h6>
                       <span className="text">Balatonfuredi KC</span>
                       <p>
-                        <Link href="URL:void(0)">Tomorrow / 01:45</Link>
+                        <Link href="">Tomorrow / 01:45</Link>
                       </p>
                     </div>
                   </div>
@@ -385,14 +385,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -406,7 +406,7 @@ const HandballTab = () => {
                       <h6>BM. Benidorm</h6>
                       <span className="text">SG Flensburg-Handewitt</span>
                       <p>
-                        <Link href="URL:void(0)">Tomorrow / 01:45</Link>
+                        <Link href="">Tomorrow / 01:45</Link>
                       </p>
                     </div>
                   </div>
@@ -434,14 +434,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -455,7 +455,7 @@ const HandballTab = () => {
                       <h6>Montpellier</h6>
                       <span className="text">Benfica</span>
                       <p>
-                        <Link href="URL:void(0)">Tomorrow / 01:45</Link>
+                        <Link href="">Tomorrow / 01:45</Link>
                       </p>
                     </div>
                   </div>
@@ -483,14 +483,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -504,7 +504,7 @@ const HandballTab = () => {
                       <h6>Bidasoa Irun</h6>
                       <span className="text">Pelister Bitola</span>
                       <p>
-                        <Link href="URL:void(0)">Tomorrow / 01:45</Link>
+                        <Link href="">Tomorrow / 01:45</Link>
                       </p>
                     </div>
                   </div>
@@ -532,14 +532,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -553,7 +553,7 @@ const HandballTab = () => {
                       <h6>Frisch Auf Goppingen</h6>
                       <span className="text">Kadetten Schaffhausen</span>
                       <p>
-                        <Link href="URL:void(0)">Tomorrow / 01:45</Link>
+                        <Link href="">Tomorrow / 01:45</Link>
                       </p>
                     </div>
                   </div>
@@ -581,14 +581,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -602,7 +602,7 @@ const HandballTab = () => {
                       <h6>Skjern Håndbold</h6>
                       <span className="text">Sporting Clube de Portugal</span>
                       <p>
-                        <Link href="URL:void(0)">Tomorrow / 01:45</Link>
+                        <Link href="">Tomorrow / 01:45</Link>
                       </p>
                     </div>
                   </div>
@@ -630,14 +630,14 @@ const HandballTab = () => {
                   <div className="cart__point cart__point__two">67,5</div>
                   <div className="mart__point__two">
                     <div className="mart__point__right">
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.87
                       </Link>
-                      <Link href="URL:void(0)" className="point__box">
+                      <Link href="" className="point__box">
                         7.80
                       </Link>
                       <Link
-                        href="URL:void(0)"
+                        href=""
                         className="point__box bg__none spacing__initial"
                       >
                         <i className="icon-star star"></i>
@@ -646,10 +646,10 @@ const HandballTab = () => {
                   </div>
                 </div>
                 <div className="table__footer">
-                  <Link href="URL:void(0)" className="lobby text__opa">
+                  <Link href="" className="lobby text__opa">
                     Open Handball lobby
                   </Link>
-                  <Link href="URL:void(0)" className="footerpoing">
+                  <Link href="" className="footerpoing">
                     <span>30</span>
                     <span>
                       <i className="fas fa-angle-right"></i>

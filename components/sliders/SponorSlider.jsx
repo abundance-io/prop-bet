@@ -64,15 +64,6 @@ const SponorSlider = () => {
 
   return (
     <div className="footer__sponsor owl-theme owl-carousel">
-      <Slider {...settings}>
-        {[s1, s3, s4, s5, s6, s7, s8, s9, s10, s12].map((itm, i) => (
-          <div key={i} className="footer__sponsor__items">
-            <Link href="URL:void(0)">
-              <Image src={itm} alt="simg" />
-            </Link>
-          </div>
-        ))}
-      </Slider>
     </div>
   );
 };

@@ -17,11 +17,11 @@ const NextAmericanFootballTab = () => {
         </div>
         <div className="mart__point__two mart__pint__nextgo">
           <div className="mart__point__left">
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">+3,5</span>
               <span>1.91</span>
             </Link>
-            <Link href="URL:void(0)" className="point__box">
+            <Link href="" className="point__box">
               <span className="point__1">-3,5</span>
               <span>1.91</span>
             </Link>

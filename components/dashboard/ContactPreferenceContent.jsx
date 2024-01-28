@@ -63,7 +63,7 @@ const ContactPreferenceContent = () => {
           </div>
         </div>
         <div className="save__btn mt-4 d-flex justify-content-end">
-          <Link href="URL:void(0)" className="cmn--btn">
+          <Link href="" className="cmn--btn">
             <span>Save</span>
           </Link>
         </div>

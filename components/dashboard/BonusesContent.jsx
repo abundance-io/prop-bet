@@ -22,7 +22,7 @@ const BonusesContent = () => {
               <div className="content">
                 <h4>2022 Winter bonus 3</h4>
                 <span className="smalltext">Use code at deposit</span>
-                <Link href="URL:void(0)" className="cmn--btn">
+                <Link href="" className="cmn--btn">
                   <span>WELCOME100</span>
                 </Link>
               </div>
@@ -35,7 +35,7 @@ const BonusesContent = () => {
               </div>
               <div className="content">
                 <h4>Betting Welcome Bonus</h4>
-                <Link href="URL:void(0)" className="cmn--btn">
+                <Link href="" className="cmn--btn">
                   <span>WELCOME100</span>
                 </Link>
               </div>
@@ -52,7 +52,7 @@ const BonusesContent = () => {
               <div className="content">
                 <h4>Christmas Bonus</h4>
                 <span className="smalltext">Use code at deposit</span>
-                <Link href="URL:void(0)" className="cmn--btn">
+                <Link href="" className="cmn--btn">
                   <span>WELCOME100</span>
                 </Link>
               </div>
@@ -65,7 +65,7 @@ const BonusesContent = () => {
               </div>
               <div className="content">
                 <h4>Welcome Casino Bonus</h4>
-                <Link href="URL:void(0)" className="cmn--btn">
+                <Link href="" className="cmn--btn">
                   <span>WELCOME100</span>
                 </Link>
               </div>

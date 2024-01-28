@@ -76,27 +76,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Lingfield</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>12:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -105,27 +105,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Hexham</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>12:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -134,27 +134,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Kempton</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>12:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -163,27 +163,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Leicester</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>12:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -192,27 +192,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Dundalk</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>12:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -224,27 +224,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Pau</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>12:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -256,27 +256,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Mountaineer</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>1:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>7:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>8:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>9:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>2:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -285,22 +285,22 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Gulfstream</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>19:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
                   </div>
@@ -308,22 +308,22 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Tampa Bay Downs</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>19:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
                   </div>
@@ -331,22 +331,22 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Turf Paradise</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>19:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
                   </div>
@@ -357,27 +357,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Kenilworth</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>12:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -398,27 +398,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Pau</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>12:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -430,27 +430,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Mountaineer</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>1:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>7:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>8:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>9:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>2:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -459,22 +459,22 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Gulfstream</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>19:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
                   </div>
@@ -482,22 +482,22 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Tampa Bay Downs</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>19:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
                   </div>
@@ -505,22 +505,22 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Turf Paradise</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>19:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                     </Link>
                   </div>
@@ -531,27 +531,27 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Kenilworth</h5>
                   <div className="chart__point__wrap">
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>17:30</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>18:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>12:20</span>
                       <span className="ptext">p</span>
                     </Link>
-                    <Link href="URL:void(0)">
+                    <Link href="">
                       <span>11:20</span>
                       <span className="ptext">p</span>
                     </Link>
@@ -572,12 +572,12 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Ante Post Flat Racing</h5>
                   <div className="racing__list">
-                    <Link href="URL:void(0)">1000 Guineeas</Link>
-                    <Link href="URL:void(0)">Derby</Link>
-                    <Link href="URL:void(0)">200 Guineeas</Link>
-                    <Link href="URL:void(0)">500 Guineeas</Link>
-                    <Link href="URL:void(0)">Planing</Link>
-                    <Link href="URL:void(0)">Grand National</Link>
+                    <Link href="">1000 Guineeas</Link>
+                    <Link href="">Derby</Link>
+                    <Link href="">200 Guineeas</Link>
+                    <Link href="">500 Guineeas</Link>
+                    <Link href="">Planing</Link>
+                    <Link href="">Grand National</Link>
                   </div>
                 </div>
               </div>
@@ -586,12 +586,12 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Cheltenham Festival</h5>
                   <div className="racing__list">
-                    <Link href="URL:void(0)">Stayers Hurdle</Link>
-                    <Link href="URL:void(0)">Derby</Link>
-                    <Link href="URL:void(0)">200 Guineeas</Link>
-                    <Link href="URL:void(0)">500 Guineeas</Link>
-                    <Link href="URL:void(0)">Planing</Link>
-                    <Link href="URL:void(0)">Grand National</Link>
+                    <Link href="">Stayers Hurdle</Link>
+                    <Link href="">Derby</Link>
+                    <Link href="">200 Guineeas</Link>
+                    <Link href="">500 Guineeas</Link>
+                    <Link href="">Planing</Link>
+                    <Link href="">Grand National</Link>
                   </div>
                 </div>
               </div>
@@ -600,12 +600,12 @@ const HorseRacingTab = () => {
                 <div className="horse__chart__items">
                   <h5>Anitree Grand Festival</h5>
                   <div className="racing__list">
-                    <Link href="URL:void(0)">Champion Durdle</Link>
-                    <Link href="URL:void(0)">Chanllenge Trophy</Link>
-                    <Link href="URL:void(0)">Leage Match</Link>
-                    <Link href="URL:void(0)">500 Guineeas</Link>
-                    <Link href="URL:void(0)">Planing pint</Link>
-                    <Link href="URL:void(0)">Grand National</Link>
+                    <Link href="">Champion Durdle</Link>
+                    <Link href="">Chanllenge Trophy</Link>
+                    <Link href="">Leage Match</Link>
+                    <Link href="">500 Guineeas</Link>
+                    <Link href="">Planing pint</Link>
+                    <Link href="">Grand National</Link>
                   </div>
                 </div>
               </div>

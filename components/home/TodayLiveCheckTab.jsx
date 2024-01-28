@@ -5,7 +5,7 @@ const TodayLiveCheckTab = () => {
     <div className="row mb-4">
       <div className="col-xl-6 col-lg-6">
         <div className="topsport__wrap">
-          <Link href="URL:void(0)" className="tsport__items">
+          <Link href="" className="tsport__items">
             <div className="tsport__itemsleft">
               <span>Live</span>
             </div>
@@ -16,7 +16,7 @@ const TodayLiveCheckTab = () => {
               </span>
             </div>
           </Link>
-          <Link href="URL:void(0)" className="tsport__items">
+          <Link href="" className="tsport__items">
             <div className="tsport__itemsleft">
               <span>Starting in 60&#39;</span>
             </div>
@@ -27,7 +27,7 @@ const TodayLiveCheckTab = () => {
               </span>
             </div>
           </Link>
-          <Link href="URL:void(0)" className="tsport__items">
+          <Link href="" className="tsport__items">
             <div className="tsport__itemsleft">
               <span>Today</span>
             </div>
@@ -38,7 +38,7 @@ const TodayLiveCheckTab = () => {
               </span>
             </div>
           </Link>
-          <Link href="URL:void(0)" className="tsport__items">
+          <Link href="" className="tsport__items">
             <div className="tsport__itemsleft">
               <span>08/12/2022</span>
             </div>
@@ -53,7 +53,7 @@ const TodayLiveCheckTab = () => {
       </div>
       <div className="col-xl-6 col-lg-6">
         <div className="topsport__wrap">
-          <Link href="URL:void(0)" className="tsport__items">
+          <Link href="" className="tsport__items">
             <div className="tsport__itemsleft">
               <span>Tennis</span>
             </div>
@@ -64,7 +64,7 @@ const TodayLiveCheckTab = () => {
               </span>
             </div>
           </Link>
-          <Link href="URL:void(0)" className="tsport__items">
+          <Link href="" className="tsport__items">
             <div className="tsport__itemsleft">
               <span>Ice Hockey</span>
             </div>
@@ -75,7 +75,7 @@ const TodayLiveCheckTab = () => {
               </span>
             </div>
           </Link>
-          <Link href="URL:void(0)" className="tsport__items">
+          <Link href="" className="tsport__items">
             <div className="tsport__itemsleft">
               <span>Table Tennis</span>
             </div>
@@ -86,7 +86,7 @@ const TodayLiveCheckTab = () => {
               </span>
             </div>
           </Link>
-          <Link href="URL:void(0)" className="tsport__items">
+          <Link href="" className="tsport__items">
             <div className="tsport__itemsleft">
               <span>Table Tennis</span>
             </div>

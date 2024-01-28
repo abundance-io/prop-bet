@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import SponorSlider from "../sliders/SponorSlider";
 import rightarrow from "/public/img/footer/rightarrow.png";
 
 const FooterHome = () => {
@@ -21,7 +20,7 @@ const FooterHome = () => {
                 <div className="content-area">
                   <ul className="quick-link">
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -32,7 +31,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -43,7 +42,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -65,7 +64,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -87,7 +86,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -134,7 +133,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -145,7 +144,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -156,7 +155,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -167,7 +166,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -178,7 +177,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -189,7 +188,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -214,7 +213,7 @@ const FooterHome = () => {
                 <div className="content-area">
                   <ul className="quick-link">
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -225,7 +224,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -236,7 +235,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -247,7 +246,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -258,7 +257,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -269,7 +268,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -280,7 +279,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -338,7 +337,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -349,7 +348,7 @@ const FooterHome = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -385,7 +384,7 @@ const FooterHome = () => {
                 <div className="content-area">
                   <ul className="quick-link">
                     <li>
-                      <Link href="URL:void(0)">
+                      <Link href="">
                         <Image
                           height={17}
                           width={17}
@@ -447,15 +446,12 @@ const FooterHome = () => {
         </div>
         {/* Footer Top */}
 
-        {/* Footer Sponor Here */}
-        <SponorSlider />
-        {/* Footer Sponor End */}
 
         {/* Footer bottom */}
         <div className="footer__bottom">
           <p>
             Copyright &copy; 2023
-            <Link href="URL:void(0)" className="text--base">
+            <Link href="" className="text--base">
               {" "}
               SportOdds
             </Link>{" "}
@@ -463,13 +459,13 @@ const FooterHome = () => {
           </p>
           <ul className="bottom__ling">
             <li>
-              <Link href="URL:void(0)">Affiliate program</Link>
+              <Link href="">Affiliate program</Link>
             </li>
             <li>
-              <Link href="URL:void(0)">Terms & conditions</Link>
+              <Link href="">Terms & conditions</Link>
             </li>
             <li>
-              <Link href="URL:void(0)">Bonus terms & conditions</Link>
+              <Link href="">Bonus terms & conditions</Link>
             </li>
           </ul>
         </div>

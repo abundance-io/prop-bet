@@ -84,14 +84,14 @@ const DepositContent = () => {
         </div>
         <div className="promo__code">
           <span className="promo">Promo Code</span>
-          <Link href="URL:void(0)">
+          <Link href="">
             <span>Enter Code</span>
             <span>
               <i className="fas fa-plus"></i>
             </span>
           </Link>
         </div>
-        <Link href="URL:void(0)" className="visa__card">
+        <Link href="" className="visa__card">
           <Image src={visap} alt="visa" />
         </Link>
         <ul className="quick-value">

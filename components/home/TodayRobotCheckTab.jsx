@@ -45,7 +45,7 @@ const TodayRobotCheckTab = () => {
               <h6>Win</h6>
             </div>
             <div className="robot__content__items">
-              <Link href="URL:void(0)" className="point">
+              <Link href="" className="point">
                 8.50
               </Link>
             </div>

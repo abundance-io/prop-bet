@@ -38,7 +38,7 @@ const VerificationContent = () => {
               <div className="attach__wrap">
                 {/* select */}
                 <Select data={idCard1} />
-                <Link href="URL:void(0)" className="cmn--btn">
+                <Link href="" className="cmn--btn">
                   <span>Attach</span>
                 </Link>
               </div>
@@ -50,7 +50,7 @@ const VerificationContent = () => {
               <div className="attach__wrap">
                 {/* select */}
                 <Select data={idCard2} />
-                <Link href="URL:void(0)" className="cmn--btn">
+                <Link href="" className="cmn--btn">
                   <span>Attach</span>
                 </Link>
               </div>
@@ -62,7 +62,7 @@ const VerificationContent = () => {
               <div className="attach__wrap">
                 {/* select */}
                 <Select data={idCard3} />
-                <Link href="URL:void(0)" className="cmn--btn">
+                <Link href="" className="cmn--btn">
                   <span>Attach</span>
                 </Link>
               </div>
@@ -74,7 +74,7 @@ const VerificationContent = () => {
               <div className="attach__wrap">
                 {/* select */}
                 <Select data={idCard4} />
-                <Link href="URL:void(0)" className="cmn--btn">
+                <Link href="" className="cmn--btn">
                   <span>Attach</span>
                 </Link>
               </div>

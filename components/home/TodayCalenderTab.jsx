@@ -3,7 +3,7 @@ import Link from "next/link";
 const TodayCalenderTab = () => {
   return (
     <>
-      <Link href="URL:void(0)" className="home__box">
+      <Link href="" className="home__box">
         <span className="icons">
           <i className="icon-home"></i>
         </span>
@@ -13,7 +13,7 @@ const TodayCalenderTab = () => {
       <div className="row mb-4">
         <div className="col-xl-6 col-lg-6">
           <div className="topsport__wrap">
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-football"></i>
@@ -24,7 +24,7 @@ const TodayCalenderTab = () => {
                 <i className="fas fa-chevron-right"></i>
               </div>
             </Link>
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-basketball"></i>
@@ -35,7 +35,7 @@ const TodayCalenderTab = () => {
                 <i className="fas fa-chevron-right"></i>
               </div>
             </Link>
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-volly"></i>
@@ -50,7 +50,7 @@ const TodayCalenderTab = () => {
         </div>
         <div className="col-xl-6 col-lg-6">
           <div className="topsport__wrap">
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-tennis"></i>
@@ -61,7 +61,7 @@ const TodayCalenderTab = () => {
                 <i className="fas fa-chevron-right"></i>
               </div>
             </Link>
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-icehockey"></i>
@@ -72,7 +72,7 @@ const TodayCalenderTab = () => {
                 <i className="fas fa-chevron-right"></i>
               </div>
             </Link>
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-ttennis"></i>
@@ -90,7 +90,7 @@ const TodayCalenderTab = () => {
       <div className="row">
         <div className="col-xl-6 col-lg-6">
           <div className="topsport__wrap">
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-afootball"></i>
@@ -101,7 +101,7 @@ const TodayCalenderTab = () => {
                 <i className="fas fa-chevron-right"></i>
               </div>
             </Link>
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-cricket"></i>
@@ -112,7 +112,7 @@ const TodayCalenderTab = () => {
                 <i className="fas fa-chevron-right"></i>
               </div>
             </Link>
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-football"></i>
@@ -123,7 +123,7 @@ const TodayCalenderTab = () => {
                 <i className="fas fa-chevron-right"></i>
               </div>
             </Link>
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-tennis"></i>
@@ -138,7 +138,7 @@ const TodayCalenderTab = () => {
         </div>
         <div className="col-xl-6 col-lg-6">
           <div className="topsport__wrap">
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-basketball"></i>
@@ -149,7 +149,7 @@ const TodayCalenderTab = () => {
                 <i className="fas fa-chevron-right"></i>
               </div>
             </Link>
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-darts"></i>
@@ -160,7 +160,7 @@ const TodayCalenderTab = () => {
                 <i className="fas fa-chevron-right"></i>
               </div>
             </Link>
-            <Link href="URL:void(0)" className="tsport__items">
+            <Link href="" className="tsport__items">
               <div className="tsport__itemsleft">
                 <span className="icons">
                   <i className="icon-horse"></i>
